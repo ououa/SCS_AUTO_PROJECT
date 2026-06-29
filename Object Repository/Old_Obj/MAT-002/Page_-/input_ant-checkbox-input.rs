@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ant-checkbox-input</name>
+   <tag></tag>
+   <elementGuidId>b83d97cb-1c8d-440f-b709-b492252a6128</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-row ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-table-row:nth-child(2) .ant-checkbox-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c3192015-5089-445c-a0bb-2daec23097c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-input</value>
+      <webElementGuid>bd441d70-53c0-408f-9a9a-301062ff1f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>50b9013d-1af6-4544-ae02-a640fe359b8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9b474b18b310dcc72c02b83bd4187d45</value>
+      <webElementGuid>f2881699-932c-4589-a8bc-223854c003c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-row ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      <webElementGuid>c22e2c59-dc6d-498b-9f36-015ee88fe5c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-row ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      <webElementGuid>12faf631-5927-44c5-a64b-a800735ec741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>b7a7946a-0205-4f31-a993-d9bdad03afab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

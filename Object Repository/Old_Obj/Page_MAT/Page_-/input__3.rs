@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__3</name>
+   <tag></tag>
+   <elementGuidId>bdeb9c17-393a-4e04-aa7a-c1f9b3a0e3c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#changeReason.ant-input-sm.ant-input-outlined.ant-input-status-success</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'changeReason' and @type = 'text']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@id = 'changeReason') and @class and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-status-success ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>41d2e97c-db0c-46ba-adac-6867d02af115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>changeReason</value>
+      <webElementGuid>6ab1cabd-0967-4a8c-846b-36fcaae806a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-sm css-oiqwb9 ant-input-outlined ant-input-status-success</value>
+      <webElementGuid>b7f9c6b6-1f37-4dc9-806e-a5a2c5c2500d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f7b206b0-569b-4912-8607-4c2be4e799c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7c17618a6ef5e90ebdb95340401ce2c7</value>
+      <webElementGuid>cb5105ee-71e2-4970-9103-b9ff89122efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@id = 'changeReason') and @class and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-status-success ')]</value>
+      <webElementGuid>1e833269-99eb-4b94-aa69-87a238d0feff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@id = 'changeReason') and @class and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-status-success ')]</value>
+      <webElementGuid>9a34ce94-53bf-4edf-af81-fc1879769a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'changeReason' and @type = 'text']</value>
+      <webElementGuid>ee4a7eb6-6ce9-4252-869b-7e8d2c3dc306</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

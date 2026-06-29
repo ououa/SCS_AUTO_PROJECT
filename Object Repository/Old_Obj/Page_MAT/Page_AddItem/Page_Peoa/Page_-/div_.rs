@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>36f2fbfa-c400-4d8f-b6df-0ea305366f61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-col:nth-child(1) .ant-select-sm.ant-select-outlined.ant-select-in-form-item.ant-select-status-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-col ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-in-form-item ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-status-success ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^客户$/ >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>34ded6fc-c3b0-4d11-a3f1-77dacf12babe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select ant-select-sm ant-select-outlined ant-select-in-form-item ant-select-status-success css-oiqwb9 ant-select-single ant-select-allow-clear ant-select-show-arrow ant-select-show-search</value>
+      <webElementGuid>1bd2a8f6-65d2-4e55-b0b0-d9d9eb13ecd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>74ea78c2-6d81-4305-9946-37df7edc64e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>客户</value>
+      <webElementGuid>b799319f-09a3-458c-91af-24d5129e08df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5f5129814e0471202e6b229c29a48b75</value>
+      <webElementGuid>d1d9ddcd-04fb-475e-b6bb-344ba31734da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-col ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-in-form-item ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-status-success ')]</value>
+      <webElementGuid>0890f541-bb14-47fd-9b29-d1fbecacf61d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-col ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-in-form-item ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-status-success ')]</value>
+      <webElementGuid>6812e4cf-99e1-4ad0-bb33-ab988fd41932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '客户' or . = '客户')]</value>
+      <webElementGuid>b1b92bcf-a88a-4783-8f5e-9b4734cdb3a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

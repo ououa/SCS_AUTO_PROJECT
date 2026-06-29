@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_270INV_270_</name>
+   <tag></tag>
+   <elementGuidId>029cd6a9-78fe-47e1-825c-7de6b2330412</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='残次品进出'])[1]/following::div[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(8) > div.ant-select-dropdown.css-oiqwb9.ant-select-dropdown-placement-bottomLeft > div > div.rc-virtual-list > div.rc-virtual-list-holder > div > div.rc-virtual-list-holder-inner > div.ant-select-item.ant-select-item-option.ant-select-item-option-active.ant-select-item-option-selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e8571f11-0064-4071-955c-1bb54050196a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4c3bfcd5-72c5-48a9-8458-ff351ac46c50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item ant-select-item-option ant-select-item-option-active ant-select-item-option-selected</value>
+      <webElementGuid>e6ad8499-55c0-439b-9229-854dfb405d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>270</value>
+      <webElementGuid>0910fb81-b307-4b9d-b06f-b87bc0ad81d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>270INV_270_浙江锂威</value>
+      <webElementGuid>ebd0be78-756b-40fd-867c-24235a06fcff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[8]/div[@class=&quot;ant-select-dropdown css-oiqwb9 ant-select-dropdown-placement-bottomLeft&quot;]/div[1]/div[@class=&quot;rc-virtual-list&quot;]/div[@class=&quot;rc-virtual-list-holder&quot;]/div[1]/div[@class=&quot;rc-virtual-list-holder-inner&quot;]/div[@class=&quot;ant-select-item ant-select-item-option ant-select-item-option-active ant-select-item-option-selected&quot;]</value>
+      <webElementGuid>4e483123-28e4-4537-9798-4b46619409e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[10]</value>
+      <webElementGuid>0e2e1194-357c-4ac3-9826-61879f338bdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>e8d28575-54a1-4f9e-a52e-375c2a26b7a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = '270' and (text() = '270INV_270_浙江锂威' or . = '270INV_270_浙江锂威')]</value>
+      <webElementGuid>8b56555f-7432-4d2e-b7f3-e76fd44690ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>e6546636-7fc5-494b-82fd-b57515d64e3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;是&quot;] .ant-select-item-option-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = '是']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;是&quot;s] >> internal:text=&quot;是&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a5adbf5b-d989-4a2e-b4fd-f82e190dc6f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>d7f01d35-9ccc-465f-8c85-1c5fdde2b237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>是</value>
+      <webElementGuid>9e321ad4-9ef9-4a8f-baa4-cfaf6e304766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bf854ca9e24da9fcb53bee903d6da6f9</value>
+      <webElementGuid>f07629c2-cbce-4f0c-9c43-49503211fa12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = '是']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      <webElementGuid>4340ec63-5c72-457e-968d-ad00a7ed350e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = '是']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      <webElementGuid>73e8c427-72ed-4a2d-9dea-f5d6d23a95ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '是' or . = '是')]</value>
+      <webElementGuid>1e1ecd6d-eab4-44a4-9a7a-e27ef4aa3e5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

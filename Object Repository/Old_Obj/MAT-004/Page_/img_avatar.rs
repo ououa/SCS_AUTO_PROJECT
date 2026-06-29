@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_avatar</name>
+   <tag></tag>
+   <elementGuidId>a6acac5e-e01d-4d62-965b-f0c5e9b17aa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@alt = 'avatar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[alt=&quot;avatar&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5a8b7957-53e9-46e6-8e42-1c7397ecb8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/default-avatar.54d3fff9.png</value>
+      <webElementGuid>f9689188-9a79-45db-bf0f-4690208300e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>avatar</value>
+      <webElementGuid>7bb8ba9f-649e-4929-990b-14cc61ef0d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2ff65c14f5e0937ab2e668a1e7ff1e70</value>
+      <webElementGuid>ca79a017-3542-4539-b12f-1123ec28a887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@alt = 'avatar']</value>
+      <webElementGuid>ce9eb575-3a51-48cb-b8bd-35f6ca96a39f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@alt = 'avatar']</value>
+      <webElementGuid>e025de82-35ea-446a-8ae6-55974718b051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/default-avatar.54d3fff9.png' and @alt = 'avatar']</value>
+      <webElementGuid>dad436a1-5ead-4f9c-ad3c-0ec4841c3225</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

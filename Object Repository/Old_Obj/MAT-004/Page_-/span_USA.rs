@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_USA</name>
+   <tag></tag>
+   <elementGuidId>574cdc9b-b53f-4670-9b26-41c55548be28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = 'USA']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;USA&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2435bdd7-68cd-475e-8685-d8b06c1ee99f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 text-left truncate</value>
+      <webElementGuid>7e7d6cc5-2c47-402c-9043-bd2c9b81ef2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>USA</value>
+      <webElementGuid>1ad83258-2539-40af-a24e-35fdd70ed3df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>USA</value>
+      <webElementGuid>f0283aa3-ddf0-45e9-b44a-7e98f6be6615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-047431594ad430dc517c0cb5582afaf9</value>
+      <webElementGuid>f1a74038-5e24-43e6-9855-11b978d2f67b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = 'USA']</value>
+      <webElementGuid>a21de634-95a5-4335-8197-30560d8ccb40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = 'USA']</value>
+      <webElementGuid>77c8bbc7-2d33-480f-8b2a-80862f7fa9c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'USA' and (text() = 'USA' or . = 'USA')]</value>
+      <webElementGuid>f8a06ab9-7b1a-4eab-b3f9-fb360f3748eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

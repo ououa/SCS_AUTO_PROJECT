@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_gridcell_12</name>
+   <tag></tag>
+   <elementGuidId>994bb755-9ed0-46d1-a461-08b07a7818a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ag-row-odd .batch-maint-required-cell.ag-cell.ag-cell-not-inline-editing:nth-child(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ag-row-odd ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' batch-maint-required-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' ag-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' ag-cell-not-inline-editing ') and (position() = 3)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.ag-row-odd > div:nth-child(3)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3706779b-8543-4538-9efe-914d188179de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>5a77fa90-391e-48a5-a70f-84783227a6f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>07129194-01fe-42fa-9fcc-7763764b39be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>col-id</name>
+      <type>Main</type>
+      <value>646033121187208153</value>
+      <webElementGuid>9b2d7303-0162-4d37-88d3-922e7840aae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-cell ag-cell-not-inline-editing ag-cell-normal-height ag-cell-value batch-maint-required-cell</value>
+      <webElementGuid>e872f9b4-aa92-4a46-bcef-f5176fe00992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-colindex</name>
+      <type>Main</type>
+      <value>13</value>
+      <webElementGuid>71fce413-7a10-49fc-80cb-1a3a88a923ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d31984c17ec5bca02eb60204c22a47f7</value>
+      <webElementGuid>b539e7f3-58c8-48ae-9ff6-d3d5a7cd57cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ag-row-odd ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' batch-maint-required-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' ag-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' ag-cell-not-inline-editing ') and (position() = 3)]</value>
+      <webElementGuid>a05a0b11-8c86-4e58-9702-6f09a59d9cc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ag-row-odd ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' batch-maint-required-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' ag-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' ag-cell-not-inline-editing ') and (position() = 3)]</value>
+      <webElementGuid>35c17eaf-a320-4aa1-bdb1-a183022813b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

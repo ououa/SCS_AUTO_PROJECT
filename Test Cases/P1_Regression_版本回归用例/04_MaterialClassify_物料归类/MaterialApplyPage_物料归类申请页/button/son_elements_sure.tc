@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>son_elements_sure</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7def5d6b-48ce-46a8-afa8-24994565d647</testCaseGuid>
+   <variable>
+      <defaultValue>5619100066304</defaultValue>
+      <description>物料编码</description>
+      <id>b1679c26-220a-4b8b-92c1-437b59026d25</id>
+      <masked>false</masked>
+      <name>materialCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'G250723109'</defaultValue>
+      <description>登录账号</description>
+      <id>ec95abcb-ad76-46ea-a347-9672439fdb08</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

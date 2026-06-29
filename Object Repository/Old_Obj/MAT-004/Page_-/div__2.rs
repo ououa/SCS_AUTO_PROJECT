@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__2</name>
+   <tag></tag>
+   <elementGuidId>7fe892ee-8178-4e17-9624-2bb794046408</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-modal-wrap ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-modal-wrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a2e0d8a8-f3f0-4e7f-9760-fc2a2d6c721a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>d1080338-06d0-44d6-8d3c-a7b4d6f81f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-modal-wrap</value>
+      <webElementGuid>2fc30f8f-c35a-4237-9fa2-8ead89530ea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>选择事业部确 认取 消批量赋值物料类型请选择物料类型确认后将把所选物料类型带入当前勾选的事业部事业部编码事业部名称查询重置行号公司编码公司全称事业部编码事业部名称库存编码库存名称保税属性 公司编码公司全称事业部编码事业部名称库存编码库存名称保税属性1229惠州锂威新能源科技有限公司229OU_229_惠州锂威829INV_829_惠州锂威-保税保税2112深圳欣威智旺科技有限公司575OU_575_欣威智旺电池事业一部575INV_575_欣威智旺电池事业一部-3205深圳市欣旺达能源科技有限公司205OU_205_深圳市欣旺达能源科技205INV_205_深圳市欣旺达能源科技-4269深圳市欣旺达再生材料有限公司269OU_269_深圳欣旺达再生材料269INV_269_深圳欣旺达再生材料-5100欣旺达电子股份有限公司100OU_100_欣旺达电子100INV_100_欣旺达电子库存-6135浙江欣威电子科技有限公司322OU_322_浙江欣威欣动322INV_322_浙江欣威欣动-7243惠州欣旺达智能工业有限公司323OU_323_智能工业欣动323INV_323_智能工业欣动-8229惠州锂威新能源科技有限公司332OU_332_惠州锂威小电芯332INV_332_惠州锂威小电芯-9229惠州锂威新能源科技有限公司334OU_334_惠州锂威Z事业部334INV_334_惠州锂威Z事业部-10100欣旺达电子股份有限公司338OU_338_机器人事业部338INV_338_机器人事业部-总共 82 条12345•••910 条/页跳至页</value>
+      <webElementGuid>841a0a95-31fe-4c81-aafd-1f59f528fee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0f61ba7474332630aefe8dc3a4e5533f</value>
+      <webElementGuid>93891a7a-5653-496d-9f37-8ed0adb3a931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-modal-wrap ')]</value>
+      <webElementGuid>ae403fbd-45df-4082-8257-1af1558409d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-modal-wrap ')]</value>
+      <webElementGuid>5200b588-3420-464f-a4bd-43a110cff8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '选择事业部确 认取 消批量赋值物料类型请选择物料类型确认后将把所选物料类型带入当前勾选的事业部事业部编码事业部名称查询重置行号公司编码公司全称事业部编码事业部名称库存编码库存名称保税属性 公司编码公司全称事业部编码事业部名称库存编码库存名称保税属性1229惠州锂威新能源科技有限公司229OU_229_惠州锂威829INV_829_惠州锂威-保税保税2112深圳欣威智旺科技有限公司575OU_575_欣威智旺电池事业一部575INV_575_欣威智旺电池事业一部-3205深圳市欣旺达能源科技有限公司205OU_205_深圳市欣旺达能源科技205INV_205_深圳市欣旺达能源科技-4269深圳市欣旺达再生材料有限公司269OU_269_深圳欣旺达再生材料269INV_269_深圳欣旺达再生材料-5100欣旺达电子股份有限公司100OU_100_欣旺达电子100INV_100_欣旺达电子库存-6135浙江欣威电子科技有限公司322OU_322_浙江欣威欣动322INV_322_浙江欣威欣动-7243惠州欣旺达智能工业有限公司323OU_323_智能工业欣动323INV_323_智能工业欣动-8229惠州锂威新能源科技有限公司332OU_332_惠州锂威小电芯332INV_332_惠州锂威小电芯-9229惠州锂威新能源科技有限公司334OU_334_惠州锂威Z事业部334INV_334_惠州锂威Z事业部-10100欣旺达电子股份有限公司338OU_338_机器人事业部338INV_338_机器人事业部-总共 82 条12345•••910 条/页跳至页' or . = '选择事业部确 认取 消批量赋值物料类型请选择物料类型确认后将把所选物料类型带入当前勾选的事业部事业部编码事业部名称查询重置行号公司编码公司全称事业部编码事业部名称库存编码库存名称保税属性 公司编码公司全称事业部编码事业部名称库存编码库存名称保税属性1229惠州锂威新能源科技有限公司229OU_229_惠州锂威829INV_829_惠州锂威-保税保税2112深圳欣威智旺科技有限公司575OU_575_欣威智旺电池事业一部575INV_575_欣威智旺电池事业一部-3205深圳市欣旺达能源科技有限公司205OU_205_深圳市欣旺达能源科技205INV_205_深圳市欣旺达能源科技-4269深圳市欣旺达再生材料有限公司269OU_269_深圳欣旺达再生材料269INV_269_深圳欣旺达再生材料-5100欣旺达电子股份有限公司100OU_100_欣旺达电子100INV_100_欣旺达电子库存-6135浙江欣威电子科技有限公司322OU_322_浙江欣威欣动322INV_322_浙江欣威欣动-7243惠州欣旺达智能工业有限公司323OU_323_智能工业欣动323INV_323_智能工业欣动-8229惠州锂威新能源科技有限公司332OU_332_惠州锂威小电芯332INV_332_惠州锂威小电芯-9229惠州锂威新能源科技有限公司334OU_334_惠州锂威Z事业部334INV_334_惠州锂威Z事业部-10100欣旺达电子股份有限公司338OU_338_机器人事业部338INV_338_机器人事业部-总共 82 条12345•••910 条/页跳至页')]</value>
+      <webElementGuid>d74ee2e0-8f8f-4496-ad26-c192bc18cee5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

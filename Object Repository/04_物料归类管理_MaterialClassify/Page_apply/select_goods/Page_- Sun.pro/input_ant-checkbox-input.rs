@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ant-checkbox-input</name>
+   <tag></tag>
+   <elementGuidId>1fc0784a-496a-4afa-b1ca-9acc0da2ac93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(2) > .ant-pro-table-shell.ant-pro-table-shell--body-min-height .ant-table-row .ant-checkbox-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 2)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-pro-table-shell ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-pro-table-shell--body-min-height ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-row ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 5108050009471 普通电阻 PCS 料件 - - -&quot;i] >> internal:label=&quot;&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6b231aaf-8c3c-4fdf-88f8-62a49404477d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-input</value>
+      <webElementGuid>6cfee657-5310-4606-a87d-be2d1755cf8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>bf5ccc21-d059-4218-97aa-b2e46e4412f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-720b4865eb9ddc021d90756121fc7304</value>
+      <webElementGuid>a36e5b8c-a515-4ec1-ab8c-7a776ad51dbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 2)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-pro-table-shell ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-pro-table-shell--body-min-height ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-row ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      <webElementGuid>6b0852c9-3eef-4cf9-8554-4b592ed10031</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 2)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-pro-table-shell ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-pro-table-shell--body-min-height ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-row ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      <webElementGuid>1875fc32-8868-416e-9788-4381b8b6e8ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>18da5568-b451-4c14-aa48-fd24930b401b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

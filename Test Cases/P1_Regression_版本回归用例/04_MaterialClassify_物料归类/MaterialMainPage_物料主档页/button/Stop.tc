@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>物料主档管理-停用：勾选数据后执行停用并断言成功提示。</description>
+   <name>Stop</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea92c84d-2919-43e1-9928-24de1c34b031</testCaseGuid>
+</TestCaseEntity>

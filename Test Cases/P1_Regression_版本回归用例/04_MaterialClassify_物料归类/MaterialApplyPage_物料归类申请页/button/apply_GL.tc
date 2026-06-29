@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>apply_GL</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d5fb9ce-ca05-4b69-a54e-46339d70b04e</testCaseGuid>
+   <variable>
+      <defaultValue>1010401</defaultValue>
+      <description>物料编码</description>
+      <id>123295f1-0924-4f25-af86-b0f9323d6e60</id>
+      <masked>false</masked>
+      <name>materialCode</name>
+   </variable>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description>归类编码</description>
+      <id>a536c0ac-adda-4954-9e25-5783beb56f65</id>
+      <masked>false</masked>
+      <name>classifyCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'G250723109'</defaultValue>
+      <description>登录账号</description>
+      <id>60e6b348-e159-4d42-bbc6-011d7354640b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

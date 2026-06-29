@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_</name>
+   <tag></tag>
+   <elementGuidId>04e143aa-1e36-4b9c-a4bc-a4626959cf91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'itemCodes']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#itemCodes</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>7530a44d-20b1-4c28-923b-73be99732840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>请输入物料料号，多个料号可换行</value>
+      <webElementGuid>9f456e94-3fa6-496f-9006-996be06f22f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>6aa864e4-a739-4f9d-8023-e6d8ea0a7822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>itemCodes</value>
+      <webElementGuid>822c0655-a3ae-429e-874a-953218a73b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-sm css-oiqwb9 advanced-filter-textarea-control</value>
+      <webElementGuid>a80431e3-2256-435b-8cbf-9276b7453cac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1234f70e7e48680523a8c9c5ec358fdb</value>
+      <webElementGuid>8bb7f786-1a26-440d-9196-0f254f8b7de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'itemCodes']</value>
+      <webElementGuid>0126a85c-2d57-46f0-b46e-5d6e28d43a32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'itemCodes']</value>
+      <webElementGuid>757cce35-f85b-43d4-9dac-81b9fe7e59dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = '请输入物料料号，多个料号可换行' and @id = 'itemCodes']</value>
+      <webElementGuid>d3de739e-d905-4a0f-aa3a-0344343126dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

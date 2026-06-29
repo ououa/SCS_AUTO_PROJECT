@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_look_password</name>
+   <tag></tag>
+   <elementGuidId>8675c115-14a5-40fe-a97a-72006f9ef3fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.anticon.anticon-eye.ant-input-password-icon > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='请输入账号名!'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;eye&quot;i >> svg</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>a816fba2-688a-43d2-9f63-4baff99f4d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>3aec7c3d-90ba-4575-bf8a-72afb7e258d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e77fee86-cf8f-42fc-93e7-8b9e3788ca76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>eye</value>
+      <webElementGuid>2a0f86da-4c65-465d-80bb-ca3303161007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>762de901-b607-4114-9aec-179e7f77b721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>44179e6a-224b-4cfd-8b82-de4dcea4bf1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>6054c16c-a3ef-45c1-b8f5-d383e3130f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d692f62b-d41b-4dcb-a561-6004184d4e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ice-container&quot;)/div[@class=&quot;css-oiqwb9 ant-app&quot;]/div[@class=&quot;container--RnCwnoSc&quot;]/div[@class=&quot;formWrapper--Qq0D07GV&quot;]/div[@class=&quot;loginForm--Rtwl_Ipb&quot;]/div[@class=&quot;ant-pro-form-login-container css-oiqwb9 css-oiqwb9&quot;]/div[@class=&quot;ant-pro-form-login-main css-oiqwb9&quot;]/form[@class=&quot;ant-form ant-form-vertical ant-form-small css-oiqwb9 ant-pro-form css-oiqwb9&quot;]/div[@class=&quot;ant-form-item css-oiqwb9 ant-form-item-with-help ant-form-item-has-error ant-form-item-vertical&quot;]/div[@class=&quot;ant-row ant-form-item-row css-oiqwb9&quot;]/div[@class=&quot;ant-col ant-form-item-control css-oiqwb9&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;ant-input-affix-wrapper ant-input-affix-wrapper-focused ant-input-affix-wrapper-lg css-oiqwb9 ant-input-outlined ant-input-status-error ant-input-password ant-input-password-large&quot;]/span[@class=&quot;ant-input-suffix&quot;]/span[@class=&quot;anticon anticon-eye ant-input-password-icon&quot;]/svg[1]</value>
+      <webElementGuid>7d9adf48-eb63-44fd-b763-678a3c3a372e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='请输入账号名!'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>32d198cc-8791-4b56-81b2-a45ba6fc3c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun.pro 登 录'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>bc0870c0-8028-411e-8759-6761236d0679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='请输入密码！'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>55ab0e65-b1c6-4b58-a3c2-503a2fddaf0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='记住密码'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f2439dc6-cafb-4460-a07f-b178c3e26a41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

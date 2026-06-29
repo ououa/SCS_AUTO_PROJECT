@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__1</name>
+   <tag></tag>
+   <elementGuidId>3397260f-53d2-4130-8e48-3f72928bc7dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-content ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-table-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>846d102a-8379-4e3e-9732-1ae3d84ff316</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-table-content</value>
+      <webElementGuid>e4b75bc0-a2cf-44c2-9dcc-c7c1f1d4cc6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>行号是否保税法人编码法人名称事业部编码事业部名称库存组织编码库存组织名称物料类型行号是否保税法人编码法人名称事业部编码事业部名称库存组织编码库存组织名称物料类型133149604PC浙江锂威能源科技有限公司270OU_270_浙江锂威270INV_270_浙江锂威料件</value>
+      <webElementGuid>bdeb3b0d-cb1e-467c-9878-351408904f9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5f0040ab1b435d420662f886d58ee39d</value>
+      <webElementGuid>46448342-09d6-409e-9ce9-133f0bd19198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-content ')]</value>
+      <webElementGuid>f1882130-ee43-45c1-9143-1f906c8c2cd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-content ')]</value>
+      <webElementGuid>ae5a4331-cbd5-45da-8ab6-a8975fa4d5a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '行号是否保税法人编码法人名称事业部编码事业部名称库存组织编码库存组织名称物料类型行号是否保税法人编码法人名称事业部编码事业部名称库存组织编码库存组织名称物料类型133149604PC浙江锂威能源科技有限公司270OU_270_浙江锂威270INV_270_浙江锂威料件' or . = '行号是否保税法人编码法人名称事业部编码事业部名称库存组织编码库存组织名称物料类型行号是否保税法人编码法人名称事业部编码事业部名称库存组织编码库存组织名称物料类型133149604PC浙江锂威能源科技有限公司270OU_270_浙江锂威270INV_270_浙江锂威料件')]</value>
+      <webElementGuid>dd6ba286-4aa0-49fd-941b-4ccd84e002dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

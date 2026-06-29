@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__1</name>
+   <tag></tag>
+   <elementGuidId>16a92961-2805-4235-ac44-ea1329b49436</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;停用&quot;] .ant-select-item-option-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = '停用']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;停用&quot;s] >> internal:text=&quot;停用&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e5d4340-73ce-46eb-a3f1-aa143f7c53cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>000d8a17-5c23-4049-99e8-8d3529d0e0fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>停用</value>
+      <webElementGuid>0e64c92f-145c-44d6-9f34-795af9b03174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6143084cd140acac2116aa10981213c0</value>
+      <webElementGuid>d363f7ac-7d3d-473c-8413-03d34990017e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = '停用']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      <webElementGuid>6487600e-91d2-4d64-8148-e134bb4066b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = '停用']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      <webElementGuid>508f0420-da4c-4334-bfe8-1cea70eb6b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '停用' or . = '停用')]</value>
+      <webElementGuid>10792740-9b7a-4c7d-bf1e-d2d42594936b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

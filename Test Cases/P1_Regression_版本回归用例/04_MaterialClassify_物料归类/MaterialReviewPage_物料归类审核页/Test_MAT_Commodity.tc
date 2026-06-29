@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>优化后的 MAT_Commodity 用例：为关键操作补充等待，并在动态输入后增加短暂缓冲，降低下拉联想加载导致的失败概率。</description>
+   <name>Test_MAT_Commodity</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c94e8e9-f7ab-4e7d-8385-1139762350ca</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>823799c2-b100-46e0-9117-b7c8b0d19337</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TC-COM-001'</defaultValue>
+      <description></description>
+      <id>823799c2-b100-46e0-9117-b7c8b0d19337</id>
+      <masked>false</masked>
+      <name>CaseID</name>
+   </variable>
+</TestCaseEntity>

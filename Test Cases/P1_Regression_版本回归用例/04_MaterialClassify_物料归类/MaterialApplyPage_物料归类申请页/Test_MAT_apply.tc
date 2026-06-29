@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>物料申请维护case</description>
+   <name>Test_MAT_apply</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5d2ecba-e888-48bd-abdc-4175c190874f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c600dcda-6a9b-4666-81fa-a8fb4fd207b2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TC-MAT-001'</defaultValue>
+      <description></description>
+      <id>c600dcda-6a9b-4666-81fa-a8fb4fd207b2</id>
+      <masked>false</masked>
+      <name>CaseID</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>物料归类审核页 PL_Yu_GL 数据驱动版本，仅传入 CaseId，通过 Data Files/04_MaterialClassify/MaterialReviewPage/PL_Yu_GL_Data 获取整套测试数据。</description>
+   <name>Pl_Yu_GL</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba4fbd04-728f-48ab-b395-352a9ce2ae42</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f72d7496-2328-4c61-b14f-86d51aebbd30</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'PL_Yu_GL_001'</defaultValue>
+      <description>数据驱动主键，从 PL_Yu_GL_Data 中按 CaseId 取整行数据</description>
+      <id>f72d7496-2328-4c61-b14f-86d51aebbd30</id>
+      <masked>false</masked>
+      <name>CaseId</name>
+   </variable>
+</TestCaseEntity>

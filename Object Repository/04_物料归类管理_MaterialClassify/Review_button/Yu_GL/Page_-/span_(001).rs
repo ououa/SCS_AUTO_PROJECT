@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_(001)</name>
+   <tag></tag>
+   <elementGuidId>4e0503f0-62c5-46f3-86ed-54eb31963c48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-col ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-selection-item ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-col:nth-child(1) .ant-select-selection-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;(001)台&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fd307665-d415-4396-876d-80df40d7579f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>c438d7b7-f909-4ee7-b999-66d8776f02be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>(001)台</value>
+      <webElementGuid>3fffa695-46a1-4995-b909-b164f1611266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(001)台</value>
+      <webElementGuid>a73bca14-51a6-4683-8249-e74256a0dc01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3cef1042d7c8cd318a148874e47d8243</value>
+      <webElementGuid>b887aaa4-6345-44d0-8cd7-908ae8a43cae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-col ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-selection-item ')]</value>
+      <webElementGuid>ed8366a2-667f-4194-9a7a-80a2ff08f16b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-col ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-selection-item ')]</value>
+      <webElementGuid>60cda5ef-16f7-44bd-804e-0049e14e8b0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '(001)台' and (text() = '(001)台' or . = '(001)台')]</value>
+      <webElementGuid>95acd98d-e6bf-4c49-8021-61140dcdeb4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

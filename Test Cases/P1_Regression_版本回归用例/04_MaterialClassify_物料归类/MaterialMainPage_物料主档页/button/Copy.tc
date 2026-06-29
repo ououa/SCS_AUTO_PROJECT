@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>优化后的物料主档复制用例：增加步骤分段与注释，并改造成按 CaseID 读取 Excel 数据的数据驱动用例。Excel 字段：CaseID、itemcode、unitcode、itemtype、materialName、itemmodel、note。</description>
+   <name>Copy</name>
+   <tag>GenAI</tag>
+   <comment>按用户要求增加注释和步骤分段，并改为通过 caseId 匹配 Excel/Test Data 数据驱动执行。</comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87b8103a-3e62-47f5-86f9-8e8bac2dd79d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>传入的测试数据主键，对应 Excel 列 CaseID</description>
+      <id>14e573cb-0443-4f84-b004-cb236c338ead</id>
+      <masked>false</masked>
+      <name>caseId</name>
+   </variable>
+</TestCaseEntity>

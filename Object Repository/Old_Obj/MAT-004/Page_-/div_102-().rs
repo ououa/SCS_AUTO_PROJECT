@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_102-()</name>
+   <tag></tag>
+   <elementGuidId>c4af4162-8e57-4e5f-9733-ecfb86af3370</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = '其他锂离子蓄电池(便携式电子产品用锂离子电池)']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;其他锂离子蓄电池\(便携式电子产品用锂离子电池\)&quot;] .ant-select-item-option-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>45278590-9d80-4b2a-8e32-1c15abee63f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>51d9eade-51fd-4fa9-9f85-64f3886f969f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>102-其他锂离子蓄电池(便携式电子产品用锂离子电池)</value>
+      <webElementGuid>dce0c803-a082-4520-a86c-3f9e6da06512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-08f2c8353bdd30496e50bb86caffcbec</value>
+      <webElementGuid>5991e1b9-2176-46f8-81f0-58cc2ee3875f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = '其他锂离子蓄电池(便携式电子产品用锂离子电池)']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      <webElementGuid>e3baf003-94f3-4ae4-92dd-618bd09c9418</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = '其他锂离子蓄电池(便携式电子产品用锂离子电池)']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      <webElementGuid>70a53e9b-bce0-4a41-b079-f673aa27bad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '102-其他锂离子蓄电池(便携式电子产品用锂离子电池)' or . = '102-其他锂离子蓄电池(便携式电子产品用锂离子电池)')]</value>
+      <webElementGuid>dcbdc0bf-7a1f-4e35-a9b4-08808a44d562</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

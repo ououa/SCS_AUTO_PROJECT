@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>启用</description>
+   <name>Isuse</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>34e6f250-5399-4be5-b292-a53f32865f79</testCaseGuid>
+</TestCaseEntity>

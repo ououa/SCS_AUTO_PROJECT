@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PL_Edtt</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>71ecab10-e6df-42fa-baad-247b5218997d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6b9089fc-b899-4b34-870a-110998e8ac3c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TC-PL-001'</defaultValue>
+      <description></description>
+      <id>6b9089fc-b899-4b34-870a-110998e8ac3c</id>
+      <masked>false</masked>
+      <name>CaseID</name>
+   </variable>
+</TestCaseEntity>

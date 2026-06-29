@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>6e039c72-56cc-45ff-a626-1befa7728ecc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-pro-table-list-toolbar-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-pro-table-list-toolbar-right ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^选择商品批量维护提交归类归类变更子申报要素确认导入导出批量上传批量下载$/ >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d84c9107-dcd7-4530-a256-a2f3c0309f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-pro-table-list-toolbar-right css-oiqwb9</value>
+      <webElementGuid>761927df-c80d-44b2-a713-5709d4089781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>选择商品批量维护提交归类归类变更子申报要素确认导入导出批量上传批量下载</value>
+      <webElementGuid>0fcd18e7-607d-44a5-b52e-a9917d767ed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-df8f1b3d5b09488bc0c8495fe1086b01</value>
+      <webElementGuid>896cd013-721a-43f1-b6a6-aaf002b04e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-pro-table-list-toolbar-right ')]</value>
+      <webElementGuid>0a977c9c-ddfc-4314-b28a-d873871e9828</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-pro-table-list-toolbar-right ')]</value>
+      <webElementGuid>30f9baee-2e6b-4f14-b8a8-c81133b8ec81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '选择商品批量维护提交归类归类变更子申报要素确认导入导出批量上传批量下载' or . = '选择商品批量维护提交归类归类变更子申报要素确认导入导出批量上传批量下载')]</value>
+      <webElementGuid>83ef2371-97dd-42cd-b75c-f3bb82f19585</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

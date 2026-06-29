@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_(EUR)</name>
+   <tag></tag>
+   <elementGuidId>44e0e801-b2af-4bb0-ba0b-d8de27ab0a48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and (@title = '(EUR)欧元')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.truncate[title=&quot;\(EUR\)欧元&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0f86d6f5-ea4f-4ea3-ae6e-25b91278f1b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 text-left truncate</value>
+      <webElementGuid>c46bce2b-ef3f-4f03-b3de-11caf30355c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>(EUR)欧元</value>
+      <webElementGuid>dd4d19a0-4ef6-4c14-9c7f-0727da290b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(EUR)欧元</value>
+      <webElementGuid>2e23bc0d-caac-4ea4-b114-bbe985f93c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9007005c6a525e24b41a909ef77ec6ac</value>
+      <webElementGuid>1e1f03e3-0d2d-419e-8ba4-9d81b4d81634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and (@title = '(EUR)欧元')]</value>
+      <webElementGuid>72783aa0-6f73-4e89-8dfa-6c81c6f304f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and (@title = '(EUR)欧元')]</value>
+      <webElementGuid>98c77e92-28da-40ca-9753-6f9e2bda844c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '(EUR)欧元' and (text() = '(EUR)欧元' or . = '(EUR)欧元')]</value>
+      <webElementGuid>8f003620-aeae-4468-912f-25c635c7cdc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

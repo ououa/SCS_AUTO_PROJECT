@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_14081</name>
+   <tag></tag>
+   <elementGuidId>94ae12cd-b514-49a9-8e2f-bf3c77a6aaeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option ') and (@title = '深圳市星日电子有限公司')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and contains(concat(' ', normalize-space(@class), ' '), ' text-left ') and (position() = 1)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-select-item-option[title=&quot;深圳市星日电子有限公司&quot;] .truncate.text-left:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e46c5568-ea55-4d9c-bc6f-d88b1b8a33df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 text-left truncate</value>
+      <webElementGuid>dc0b6fd9-d358-41fe-88b7-85e5ca19476b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>14081</value>
+      <webElementGuid>cdae5f1e-fd0c-46d6-9a96-159b9a276734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>14081</value>
+      <webElementGuid>8eca4ce7-5450-4b86-9029-46de04fe16f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-87e4824734533b7426a22cb88c05f54c</value>
+      <webElementGuid>ee4fec5b-c69f-4047-bc33-5ddb14e7513f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option ') and (@title = '深圳市星日电子有限公司')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and contains(concat(' ', normalize-space(@class), ' '), ' text-left ') and (position() = 1)]</value>
+      <webElementGuid>118dfec1-34df-4eac-82b9-407f30ccde73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option ') and (@title = '深圳市星日电子有限公司')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and contains(concat(' ', normalize-space(@class), ' '), ' text-left ') and (position() = 1)]</value>
+      <webElementGuid>0ecd6b63-7a1e-44a9-ad88-53350bf5e82e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '14081' and (text() = '14081' or . = '14081')]</value>
+      <webElementGuid>e45cdec5-152c-4c6e-8039-dc44963fce34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

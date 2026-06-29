@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1</name>
+   <tag></tag>
+   <elementGuidId>807d437c-ca97-4de7-bd86-60d14a4ef227</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-menu-title-content [href=&quot;\/AccountBookManagement\/ManualManagement\/ElectronicManual&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-menu-title-content ')]//*[@href = '/AccountBookManagement/ManualManagement/ElectronicManual']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;电子手册&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9a8aa902-edac-4ace-9b2e-adc2ce7b7bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/AccountBookManagement/ManualManagement/ElectronicManual</value>
+      <webElementGuid>254d76f8-e16a-4ed9-8392-2bf16919aaf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>电子手册</value>
+      <webElementGuid>db8052f1-e469-488e-b2bb-201b0a8895e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-078802e5e25b8d65b6206308f007dc6e</value>
+      <webElementGuid>a2038722-8497-4e76-91ca-24e5624b4d38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-menu-title-content ')]//*[@href = '/AccountBookManagement/ManualManagement/ElectronicManual']</value>
+      <webElementGuid>c12e19ef-884c-4117-9660-43d941c69dad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-menu-title-content ')]//*[@href = '/AccountBookManagement/ManualManagement/ElectronicManual']</value>
+      <webElementGuid>36f903ee-eac3-43da-a3f7-f51f8e0392ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/AccountBookManagement/ManualManagement/ElectronicManual' and (text() = '电子手册' or . = '电子手册')]</value>
+      <webElementGuid>67a807e8-b6dc-47f0-86ea-ac1d7eebf80d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
