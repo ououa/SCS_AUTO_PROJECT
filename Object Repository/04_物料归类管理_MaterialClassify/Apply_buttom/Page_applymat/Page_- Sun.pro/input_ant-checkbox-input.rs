@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ant-checkbox-input</name>
+   <tag></tag>
+   <elementGuidId>6c41e3b3-dfea-4d58-b2b5-271cf0e2b0a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-row ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-table-row:nth-child(2) .ant-checkbox-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 5108050009471 普通电阻 草稿 申请 归类 归并 料件 ERP接口 5108050009471 - - PCS 启用 否 否 非保税 2 - - - - - - - 2026-06-23 17:38:59 - - -  维护  查看&quot;i] >> internal:label=&quot;&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4f044439-c7ba-4fcf-b33c-a22ec9f8258b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-input</value>
+      <webElementGuid>6f35a764-a437-407b-9b49-fea7739ecd0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>813f97f0-8226-4e6f-898e-00c909a09058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9b474b18b310dcc72c02b83bd4187d45</value>
+      <webElementGuid>dce071ad-7e47-4388-8949-5cf0c3d3bc68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-row ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      <webElementGuid>bc0d2fb0-5732-4cb4-a405-be6fd1ae7f71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-row ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      <webElementGuid>d663ac08-9510-497c-b5a1-b8d30acf8634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>3ff8e8b1-d84c-41ea-a31f-83c8c7897dfe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

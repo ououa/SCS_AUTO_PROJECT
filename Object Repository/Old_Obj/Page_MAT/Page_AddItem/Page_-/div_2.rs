@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2</name>
+   <tag></tag>
+   <elementGuidId>6b782e69-574f-4f19-8b34-8c27f7b8eb2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;供应商&quot;] .whitespace-nowrap.w-max</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = '供应商']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' whitespace-nowrap ') and contains(concat(' ', normalize-space(@class), ' '), ' w-max ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;2供应商&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6d8dc705-0f79-4d0c-b858-3456949c8f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex w-max min-w-full items-center gap-1 whitespace-nowrap pr-2</value>
+      <webElementGuid>f883949b-912a-4082-973c-c0aae1733691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>2 供应商</value>
+      <webElementGuid>23b346f9-d2d5-4efe-9341-a3cc94910db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2供应商</value>
+      <webElementGuid>af8284f1-fa2d-4147-a262-79150c749a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-24598f39cfc1c608a328fa5e3215e546</value>
+      <webElementGuid>1bf12ed3-647b-4213-bea5-ac2eed0ad300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = '供应商']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' whitespace-nowrap ') and contains(concat(' ', normalize-space(@class), ' '), ' w-max ')]</value>
+      <webElementGuid>443e2cb3-66d0-420c-bd7b-5a01f14d9964</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = '供应商']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' whitespace-nowrap ') and contains(concat(' ', normalize-space(@class), ' '), ' w-max ')]</value>
+      <webElementGuid>a4bb2386-5564-4dbe-9659-94052cb62b19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = '2 供应商' and (text() = '2供应商' or . = '2供应商')]</value>
+      <webElementGuid>f45d4505-522d-4863-ad17-f4199dff884a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

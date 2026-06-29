@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__4</name>
+   <tag></tag>
+   <elementGuidId>80b66d0b-3beb-4213-aa13-0445c5fc6c9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = '客户']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;客户&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1b913b79-d814-49cd-a259-4295bb00b2fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>2856f44b-7313-4cce-b27b-d1c79e7faf12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>客户</value>
+      <webElementGuid>012914ac-7410-4ae9-b6bf-a5aa3cd404fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>客户</value>
+      <webElementGuid>d1d7986f-1f51-4628-a5a4-f922e88cedc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3b2bcaab1f4c56dd1c27690c7caee213</value>
+      <webElementGuid>37bfadfe-285c-4e7e-a12d-d869c4626629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = '客户']</value>
+      <webElementGuid>98151b3c-beb6-402e-9af2-287a53034bf8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = '客户']</value>
+      <webElementGuid>4a587a24-f278-4b80-9086-18fbf577528f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '客户' and (text() = '客户' or . = '客户')]</value>
+      <webElementGuid>6692bbd4-5a79-432b-b656-dceae2536559</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

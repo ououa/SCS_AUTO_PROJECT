@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__8</name>
+   <tag></tag>
+   <elementGuidId>96f4b847-28b9-47e9-8c37-c64b622bc291</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.truncate[title=&quot;广东深圳生物科技公司&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and (@title = '广东深圳生物科技公司')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;广东深圳生物科技公司&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a648a231-9041-4efa-807b-bc9c585bab6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 text-left truncate</value>
+      <webElementGuid>e0e7dbd5-d1da-4438-b35e-f8c79941cb65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>广东深圳生物科技公司</value>
+      <webElementGuid>6ce9a2ce-b2ba-4423-9970-318d3ca1d824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>广东深圳生物科技公司</value>
+      <webElementGuid>699437cd-7d2b-4ac8-9bae-61fc3e203a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f35fcf43d74bc258a628f2571faeaa23</value>
+      <webElementGuid>32582fdb-eaa5-4187-9bbd-b912d614eafe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and (@title = '广东深圳生物科技公司')]</value>
+      <webElementGuid>72f918c8-1dab-4ba0-9593-1e954e53fdc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and (@title = '广东深圳生物科技公司')]</value>
+      <webElementGuid>f34463be-11a9-4cb8-8af2-6c42f685d260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '广东深圳生物科技公司' and (text() = '广东深圳生物科技公司' or . = '广东深圳生物科技公司')]</value>
+      <webElementGuid>70bf1d67-b5bc-41f1-abd2-fd5f5179e402</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

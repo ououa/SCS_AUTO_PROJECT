@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_0</name>
+   <tag></tag>
+   <elementGuidId>2247ac7d-d2f0-47f8-b0e7-8aaca7339eef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;无品牌&quot;] .whitespace-nowrap.w-max</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = '无品牌']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' whitespace-nowrap ') and contains(concat(' ', normalize-space(@class), ' '), ' w-max ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;0无品牌&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dcdf731e-43e0-4a26-b53c-e47dedaac0e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex w-max min-w-full items-center gap-1 whitespace-nowrap pr-2</value>
+      <webElementGuid>c52eba6a-bc4d-46ba-a336-2b73d945f647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>0 无品牌</value>
+      <webElementGuid>000cb07f-06d9-4c79-b312-06f2c2b15fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0无品牌</value>
+      <webElementGuid>83b16653-4378-4398-9bcb-917ea5be1130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-03991bbf84df8c864b702e1a1fcc79bd</value>
+      <webElementGuid>7a5d51ed-5bcf-44a5-aea2-e294778264a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = '无品牌']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' whitespace-nowrap ') and contains(concat(' ', normalize-space(@class), ' '), ' w-max ')]</value>
+      <webElementGuid>4de62a44-55f3-424a-b3e7-6c67a7ca557a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = '无品牌']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' whitespace-nowrap ') and contains(concat(' ', normalize-space(@class), ' '), ' w-max ')]</value>
+      <webElementGuid>f029a204-9b15-4ff4-8abb-eb337257e488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = '0 无品牌' and (text() = '0无品牌' or . = '0无品牌')]</value>
+      <webElementGuid>d7203857-8cd4-46c3-bc8c-0755d29d09dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

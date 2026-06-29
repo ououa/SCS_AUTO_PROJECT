@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__r1v</name>
+   <tag></tag>
+   <elementGuidId>1c32c4a3-6895-4f86-8c02-57cbae2fa72e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-describedby = ':r1v:']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-describedby=&quot;\:r1v\:&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b288a697-cb8f-4d53-ae56-277d1954a5e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>:r1v:</value>
+      <webElementGuid>0efa5c1f-d9c4-4d0a-82ab-a54daeb720f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ClassManagement/goodsMaintenance</value>
+      <webElementGuid>eae9c4bc-13f9-4af7-85b6-99233b82c503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>物料归类申请</value>
+      <webElementGuid>945d6e1b-1479-4b1d-a806-7d3d1167bce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-992f712319af1e14b67345c6f8c9b387</value>
+      <webElementGuid>b538b775-d62e-4ada-9fba-e841035ee9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r1v:']</value>
+      <webElementGuid>2259a232-3a7a-4dd5-8edc-36c8e4d812d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r1v:']</value>
+      <webElementGuid>14a364da-51bd-45c0-9912-9ac279a1f2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ClassManagement/goodsMaintenance' and (text() = '物料归类申请' or . = '物料归类申请')]</value>
+      <webElementGuid>0f5e92d8-561d-4aab-9300-27518187f070</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

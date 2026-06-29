@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__r2ac</name>
+   <tag></tag>
+   <elementGuidId>faeec4f7-cd14-4a07-98d4-ddba76691ba2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-describedby = ':r2ac:']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-describedby=&quot;\:r2ac\:&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>18b139f4-8371-45fe-b40a-df5511a681aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>:r2ac:</value>
+      <webElementGuid>69d22711-6b24-4458-a1d8-007abb2d346b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ClassManagement/CommodityClassification</value>
+      <webElementGuid>ccf44712-8916-47ff-91db-fc213d44a7c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>物料归类审核</value>
+      <webElementGuid>f3ce07a2-394e-4966-88ca-94c8c50e999d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d0b425d22f85cda4e3a11386ed8456ac</value>
+      <webElementGuid>c28997fe-bbae-4de8-841f-408adb78ec7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r2ac:']</value>
+      <webElementGuid>35befdd8-8be1-4bea-a73b-9b2ee695e0fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r2ac:']</value>
+      <webElementGuid>a5c3cb6c-e680-4cb0-ae60-ecb33342587d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ClassManagement/CommodityClassification' and (text() = '物料归类审核' or . = '物料归类审核')]</value>
+      <webElementGuid>b188e379-5090-484f-832d-7767272d28ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

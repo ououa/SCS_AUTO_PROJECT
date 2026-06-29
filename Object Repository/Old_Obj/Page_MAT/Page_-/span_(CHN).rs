@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_(CHN)</name>
+   <tag></tag>
+   <elementGuidId>779d490e-6e52-4e63-90b2-4eeb87fc2c91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.truncate[title=&quot;\(CHN\)中国&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and (@title = '(CHN)中国')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e7d604f-5f66-4e0f-9aaf-290ff17158c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 text-left truncate</value>
+      <webElementGuid>9d1dbd45-b656-4166-9ce2-53d8d9d8b945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>(CHN)中国</value>
+      <webElementGuid>c08ac844-05d5-43de-85e0-8a38e53b3df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(CHN)中国</value>
+      <webElementGuid>f4ee33bf-ed88-4da1-8eb2-48f44d5d324e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e5146ba439f22bf99ab76a53c1ca7e35</value>
+      <webElementGuid>1169ea1e-3c6b-4091-ae58-f910e5b2825f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and (@title = '(CHN)中国')]</value>
+      <webElementGuid>a7c44052-807e-492b-b673-6e67ab299143</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and (@title = '(CHN)中国')]</value>
+      <webElementGuid>49da4ea0-7508-4a91-b067-2c9e6ec9bf88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '(CHN)中国' and (text() = '(CHN)中国' or . = '(CHN)中国')]</value>
+      <webElementGuid>f41f831c-1ce9-43c5-b33f-e8e79c0f605f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

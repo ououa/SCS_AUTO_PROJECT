@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_111_1</name>
+   <tag></tag>
+   <elementGuidId>277546e6-bb06-4f37-a725-c9ee3892c3e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-select-item-option[title=&quot;广东深圳生物科技公司&quot;] div.flex.items-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option ') and (@title = '广东深圳生物科技公司')]//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex ') and contains(concat(' ', normalize-space(@class), ' '), ' items-center ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;111广东深圳生物科技公司&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>84c568c3-7512-487c-9826-b5dc4ac9b275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center</value>
+      <webElementGuid>32ec2183-8b73-44b6-a552-bc356637587c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>111广东深圳生物科技公司</value>
+      <webElementGuid>6c9adef5-4123-44bc-8bc1-8ef6d022cc6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-31246e8fc3edbf387eb4999496f34096</value>
+      <webElementGuid>aa1eeb1a-a563-4418-b3fc-2e2eb2a19664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option ') and (@title = '广东深圳生物科技公司')]//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex ') and contains(concat(' ', normalize-space(@class), ' '), ' items-center ')]</value>
+      <webElementGuid>7274701e-c025-43bd-89df-8a1b2fe97ba5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option ') and (@title = '广东深圳生物科技公司')]//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex ') and contains(concat(' ', normalize-space(@class), ' '), ' items-center ')]</value>
+      <webElementGuid>88649fa4-9eef-4786-ae3d-b1cf5cca1190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '111广东深圳生物科技公司' or . = '111广东深圳生物科技公司')]</value>
+      <webElementGuid>10fe7ba1-976e-4035-b274-de92cbac462d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

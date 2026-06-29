@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__3</name>
+   <tag></tag>
+   <elementGuidId>ab7167ea-c403-4c65-b8c7-7ed82f5d3ec4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-describedby = ':r294:']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-menu-title-content ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-describedby=&quot;\:r294\:&quot;] .ant-menu-title-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4d60e24-ff1c-462d-a0f8-bf6e226648b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-menu-title-content</value>
+      <webElementGuid>a4dc1b14-90d7-4a5c-b5dd-a78294ce6b85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>物料归类管理</value>
+      <webElementGuid>6c276c23-a87b-4ba9-8b76-d0078fa7b97c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-40603ab41051c3997c099ee48525f5bb</value>
+      <webElementGuid>f8929dd4-3c2f-4225-b16b-4bba795c71bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r294:']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-menu-title-content ')]</value>
+      <webElementGuid>411aedf6-338f-4d70-8565-584f369abdd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r294:']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-menu-title-content ')]</value>
+      <webElementGuid>537e4785-3c11-4370-bc31-fe4f62af2067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '物料归类管理' or . = '物料归类管理')]</value>
+      <webElementGuid>d18f3ce1-e4fe-472d-8b14-80c7f4f1014a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

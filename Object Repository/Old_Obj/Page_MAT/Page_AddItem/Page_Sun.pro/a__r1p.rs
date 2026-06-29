@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__r1p</name>
+   <tag></tag>
+   <elementGuidId>c87d2388-c808-4bf8-be0c-c91f436aa143</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-describedby=&quot;\:r1p\:&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-describedby = ':r1p:']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/ClassManagement/EnterpriseProductArchives' and (text() = '物料主档管理' or . = '物料主档管理')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b4466f2a-1f02-45f2-9b5c-949241db08fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>:r1p:</value>
+      <webElementGuid>c7872524-b082-4e83-9d13-b0c967c7ff2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ClassManagement/EnterpriseProductArchives</value>
+      <webElementGuid>04a5e0d4-0089-4da9-ae85-d2f208a271ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>物料主档管理</value>
+      <webElementGuid>1630ba4d-b249-42be-8985-12278451c2ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0b15c880d982ac0de2885f2204de4491</value>
+      <webElementGuid>7a862159-0e4e-4077-8b98-dce6cc5c32e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r1p:']</value>
+      <webElementGuid>85be6f18-287d-4ae1-9ec9-aa7b176eba7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r1p:']</value>
+      <webElementGuid>2f39dd81-0e15-44fb-8fa4-1ebaa52029bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ClassManagement/EnterpriseProductArchives' and (text() = '物料主档管理' or . = '物料主档管理')]</value>
+      <webElementGuid>241fbe01-f2dc-4930-9183-14e88b527533</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

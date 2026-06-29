@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_INV_270_</name>
+   <tag></tag>
+   <elementGuidId>cd98ed44-6d3f-41cb-acba-8913b218428a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='残次品进出'])[1]/following::span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9b16e9f7-5f9b-46df-ab6f-981c214f8306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>INV_270_浙江锂威</value>
+      <webElementGuid>2b6cc004-579b-4845-aed0-43945fc57b70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[8]/div[@class=&quot;ant-select-dropdown css-oiqwb9 ant-select-dropdown-placement-bottomLeft&quot;]/div[1]/div[@class=&quot;rc-virtual-list&quot;]/div[@class=&quot;rc-virtual-list-holder&quot;]/div[1]/div[@class=&quot;rc-virtual-list-holder-inner&quot;]/div[@class=&quot;ant-select-item ant-select-item-option ant-select-item-option-active ant-select-item-option-selected&quot;]/div[@class=&quot;ant-select-item-option-content&quot;]/div[@class=&quot;ant-space css-oiqwb9 ant-space-horizontal ant-space-align-center ant-space-gap-row-small ant-space-gap-col-small&quot;]/div[@class=&quot;ant-space-item&quot;]/span[1]</value>
+      <webElementGuid>88e85dfd-cccf-436a-be9a-b5fdfbd5d4ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='残次品进出'])[1]/following::span[3]</value>
+      <webElementGuid>8682b599-0a37-49be-b207-a1bef82881db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='一般贸易'])[1]/following::span[6]</value>
+      <webElementGuid>7288f540-e84e-4a4e-9c40-f5467925c7ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[2]/span</value>
+      <webElementGuid>c1d98de5-9a91-4495-9daf-ffbeac2bb8df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'INV_270_浙江锂威' or . = 'INV_270_浙江锂威')]</value>
+      <webElementGuid>a8e2154f-700f-47bd-bba6-a6c1f8d18cf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

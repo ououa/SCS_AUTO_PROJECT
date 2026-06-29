@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__1</name>
+   <tag></tag>
+   <elementGuidId>6d8b5ee9-a9d9-4eb0-b78c-5e151f06ac6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-col:nth-child(2) .ant-form-item #gModel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='unitCode']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'gModel' and @type = 'text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;单位&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7dddc638-ae02-4316-95d8-f84826c83742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>请输入</value>
+      <webElementGuid>cffe6175-a8af-474a-9c2f-8564a02820fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>gModel</value>
+      <webElementGuid>de0524e0-85e4-467c-8a0d-b0add298c0a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7042a875-0baa-4b14-965b-5340bacb9c90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-sm css-oiqwb9 ant-input-outlined</value>
+      <webElementGuid>7f5562b9-4fc6-4d4b-ac0a-a850984c003b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>895f1a76-3553-4e26-b198-a7d81dabc2ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f503dfdadb5ac969af32b281f6c822d8</value>
+      <webElementGuid>dc096940-58c9-42f6-958f-9f30bec53e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-col ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-form-item ')]//*[@id = 'gModel']</value>
+      <webElementGuid>9725e5ab-3f10-4133-86c4-2089d2e022ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-col ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-form-item ')]//*[@id = 'gModel']</value>
+      <webElementGuid>9f9405b4-f249-4b8b-9723-a8f111e267ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'gModel' and @type = 'text']</value>
+      <webElementGuid>cc5c4d66-d536-4e90-b7c5-46dcef175767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'unitCode']</value>
+      <webElementGuid>e9f19bb2-ffed-4ec9-9557-86d6aec83263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = '请输入' and @id = 'unitCode' and @type = 'text']</value>
+      <webElementGuid>ccf0aff2-0144-4c16-8a80-cf403e77daaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

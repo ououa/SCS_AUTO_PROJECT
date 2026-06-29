@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_guileishenqingchaxun</name>
+   <tag></tag>
+   <elementGuidId>73f2775d-7acf-42ad-84a0-6f432072b603</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ice-container']/div/div/div/div[2]/div[2]/main/div/div[2]/div/div/div/div/section/div[2]/div/div/div/div/div/div/form/div/div[2]/div/div/div/div/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.css-oiqwb9.ant-btn-primary.ant-btn-color-primary.ant-btn-variant-solid.ant-btn-sm > span:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;search 查询&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4dd7c853-a14f-4927-a18b-b4e9515df776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>查询</value>
+      <webElementGuid>a5b3bc2b-637b-4f26-afcf-fdbb58d96def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ice-container&quot;)/div[@class=&quot;css-oiqwb9 ant-app&quot;]/div[1]/div[@class=&quot;layout--Savj49QJ xwd-layout css-oiqwb9 ant-design-pro xwd-layout screen-lg xwd-layout-fix-siderbar xwd-layout-side&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-oiqwb9&quot;]/div[@class=&quot;xwd-layout-container css-oiqwb9&quot;]/main[@class=&quot;ant-layout-content xwd-layout-content css-oiqwb9 xwd-layout-has-header css-oiqwb9&quot;]/div[@class=&quot;workspace--GIHk_c8m&quot;]/div[@class=&quot;pageContent--uckJ42uU mt-2 rounded-xl&quot;]/div[@class=&quot;ka-wrapper&quot;]/div[@class=&quot;ka-content&quot;]/div[@class=&quot;container--cSTydWq2&quot;]/div[@class=&quot;content--WqR9vZwE&quot;]/section[@class=&quot;sectionBlock--cQAYMqfJ listSectionNoHeader--ti9x3Hwc&quot;]/div[@class=&quot;pageSectionContent--oWsrDv4w listSectionContent--HDSgQ7qU&quot;]/div[@class=&quot;pageStack--NmX15Lo1&quot;]/div[@class=&quot;mainTableScope--o_KS9OTf&quot;]/div[@class=&quot;space-y-1&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small css-oiqwb9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;bg-transparent px-0 py-0&quot;]/form[@class=&quot;ant-form ant-form-horizontal ant-form-small css-oiqwb9&quot;]/div[@class=&quot;flex flex-row items-start gap-3&quot;]/div[@class=&quot;shrink-0 pt-0&quot;]/div[@class=&quot;ant-space css-oiqwb9 ant-space-horizontal ant-space-align-center ant-space-gap-row-small ant-space-gap-col-small&quot;]/div[@class=&quot;ant-space-item&quot;]/div[@class=&quot;ant-space css-oiqwb9 ant-space-horizontal ant-space-align-center ant-space-gap-row-small ant-space-gap-col-small&quot;]/div[@class=&quot;ant-space-item&quot;]/button[@class=&quot;ant-btn css-oiqwb9 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid ant-btn-sm&quot;]/span[2]</value>
+      <webElementGuid>70519f79-3cb5-4a6b-b9bb-1705c931a065</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ice-container']/div/div/div/div[2]/div[2]/main/div/div[2]/div/div/div/div/section/div[2]/div/div/div/div/div/div/form/div/div[2]/div/div/div/div/button/span[2]</value>
+      <webElementGuid>7dbee05e-42bb-44b3-b02a-1e310f958f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='请选择'])[2]/following::span[5]</value>
+      <webElementGuid>0e84d0fd-c9e5-4df8-9e19-e66e6f121d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='物料状态'])[1]/following::span[8]</value>
+      <webElementGuid>8ef6c3fa-cf2f-4f21-8ede-25c455c0d68c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='重置'])[1]/preceding::span[3]</value>
+      <webElementGuid>8ba03071-11a0-4946-bdd3-21fdd4018923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='选择商品'])[1]/preceding::span[6]</value>
+      <webElementGuid>37dd910c-5753-44a8-8a2e-500c1602ed63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='查询']/parent::*</value>
+      <webElementGuid>a562cbfb-2fa1-4a05-962a-11e02111e367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[2]</value>
+      <webElementGuid>7c978300-4ada-4771-9b8d-3f986f1ddcf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '查询' or . = '查询')]</value>
+      <webElementGuid>625f5cbf-affc-472e-97f2-e4bf1b2b37f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

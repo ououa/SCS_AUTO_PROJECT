@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ant-checkbox-input</name>
+   <tag></tag>
+   <elementGuidId>519cf6a3-ac98-41b5-bac6-e7745ec95042</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-selection-column ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-cell-fix-left ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-table-selection-column.ant-table-cell-fix-left .ant-checkbox-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0e65601e-4712-41db-b976-36312d37826b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-input</value>
+      <webElementGuid>849566a9-3553-420c-9bd3-1e3b940796fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>9dcbf1c6-f01b-4284-9fd8-d0caa7d6259f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5f1c5785bbb46caf2eebca33fdce8de7</value>
+      <webElementGuid>9a4a992f-39ec-41bb-b1b1-46c665876135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-selection-column ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-cell-fix-left ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      <webElementGuid>9cd27fd8-6d6a-496b-8ea1-6bf1f09adbae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-selection-column ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-cell-fix-left ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      <webElementGuid>8fe21244-7cf0-4806-bac8-1c99a35c8b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>440e3e28-467d-4eec-888f-a4b6984f4f44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__5</name>
+   <tag></tag>
+   <elementGuidId>83705553-752f-41db-b1ff-6e69583426cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'remark']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#remark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>87ee67b5-935a-4c27-8eb9-052962f7e36a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>请输入</value>
+      <webElementGuid>d4e9503a-0a46-4877-b794-609e0c4a1f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>remark</value>
+      <webElementGuid>db9ca943-b464-40b9-8ad1-2002e9952f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-sm css-oiqwb9 ant-input-outlined</value>
+      <webElementGuid>fb279388-ac41-4eb5-808d-2c6aa54be968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a7878f68-8c0c-418a-b3d0-f67f0eefb4c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ead304ea005d1d98eb7d70582477386f</value>
+      <webElementGuid>8ca5dcec-efd0-4b56-a03d-395f46dc0595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'remark']</value>
+      <webElementGuid>64c43fe4-dce8-4ce4-8093-812c22a8fe94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'remark']</value>
+      <webElementGuid>f1f4f639-ebcd-466f-a262-309e794c0fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = '请输入' and @id = 'remark' and @type = 'text']</value>
+      <webElementGuid>87babda7-7048-4a96-be14-9c270df466c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

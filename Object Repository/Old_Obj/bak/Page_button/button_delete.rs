@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_delete</name>
+   <tag></tag>
+   <elementGuidId>89c9f760-4539-464b-8777-69fee8f9ad7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-table-cell.ant-table-cell-fix-right.ant-table-cell-fix-right-first.ant-table-cell-row-hover > div.ant-space.css-oiqwb9.ant-space-horizontal.ant-space-align-center > div.ant-space-item > button.ant-btn.css-oiqwb9.ant-btn-link.ant-btn-dangerous.ant-btn-color-dangerous.ant-btn-variant-link.ant-btn-sm.px-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[25]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;2 系统创建 MAT-AUTO-OCJ-001 锂离子电池 料件 草稿 启用 - - 否 - KG 申请 归类 归并 eye 查看 edit 修改 delete 删除&quot;i] >> internal:role=button >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c1b0f622-0ae4-4af6-bb7a-268a72e57e29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>25bb316a-c0cb-466c-9287-6bc09410a308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-oiqwb9 ant-btn-link ant-btn-dangerous ant-btn-color-dangerous ant-btn-variant-link ant-btn-sm px-1</value>
+      <webElementGuid>d7857cb2-aa61-481e-92bc-e673dfdbee1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>删除</value>
+      <webElementGuid>4ba2b1c0-c14f-4b01-bc88-2af12cd780e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-1-panel-main&quot;)/div[@class=&quot;pageStack--r_SsVsHo&quot;]/div[@class=&quot;mainTableScope--KKkJfMpQ&quot;]/div[@class=&quot;space-y-1&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small css-oiqwb9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-pro-table-shell  ant-pro-table-shell--body-min-height&quot;]/div[@class=&quot;ant-pro-table css-oiqwb9&quot;]/div[@class=&quot;ant-pro-card css-oiqwb9&quot;]/div[@class=&quot;ant-pro-card-body css-oiqwb9&quot;]/div[@class=&quot;ant-table-wrapper css-oiqwb9&quot;]/div[@class=&quot;ant-spin-nested-loading css-oiqwb9&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-small ant-table-bordered css-oiqwb9 ant-table-ping-right ant-table-fixed-column ant-table-scroll-horizontal ant-table-has-fix-left ant-table-has-fix-right&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-fix-right ant-table-cell-fix-right-first ant-table-cell-row-hover&quot;]/div[@class=&quot;ant-space css-oiqwb9 ant-space-horizontal ant-space-align-center&quot;]/div[@class=&quot;ant-space-item&quot;]/button[@class=&quot;ant-btn css-oiqwb9 ant-btn-link ant-btn-dangerous ant-btn-color-dangerous ant-btn-variant-link ant-btn-sm px-1&quot;]</value>
+      <webElementGuid>90ba37e9-5366-4520-9df8-aefb5c3ecbd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[25]</value>
+      <webElementGuid>8e6e77b5-9326-4f05-9541-6102cfd48226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-1-panel-main']/div/div/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div/table/tbody/tr[3]/td[15]/div/div[3]/button</value>
+      <webElementGuid>ba08d25c-e68f-4930-841e-39d3f5865df0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='修改'])[2]/following::button[1]</value>
+      <webElementGuid>b0e76e7c-156a-468b-8db4-5a33be671c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='查看'])[2]/following::button[2]</value>
+      <webElementGuid>28796830-5a92-4bf5-b0f5-d2f5a23de54d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='系统创建'])[3]/preceding::button[1]</value>
+      <webElementGuid>d077bf71-dfe7-4c48-b490-08accc6acbbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[15]/div/div[3]/button</value>
+      <webElementGuid>44b08451-9e25-4fd7-8743-fcbcb658e043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '删除' or . = '删除')]</value>
+      <webElementGuid>7f2dd76d-e1e0-4d3f-97d2-b550c8aa9745</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

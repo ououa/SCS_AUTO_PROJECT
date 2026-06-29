@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>82028d53-0b3f-409f-b64b-221c14fae425</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;半成品&quot;] .ant-select-item-option-content span:nth-child(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = '半成品']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;半成品&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c027e55e-e605-4bdf-a067-44d0d90023a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shrink-0 leading-5 text-gray-700</value>
+      <webElementGuid>976054f6-4fa8-4dbf-bedd-a63393898bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>半成品</value>
+      <webElementGuid>aea04024-8d86-44b6-ab59-8e6c326e709b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b490f835725bd21fb71339047b9aa78d</value>
+      <webElementGuid>13d5df73-d144-403d-abb8-20fec437232b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = '半成品']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
+      <webElementGuid>4c2f8452-0010-4987-b27b-dd0ba397da01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = '半成品']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
+      <webElementGuid>328418f8-bd6b-4ae5-9b12-c210431f193f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '半成品' or . = '半成品')]</value>
+      <webElementGuid>16174cdb-625e-4c28-8512-dd8a0fe01404</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

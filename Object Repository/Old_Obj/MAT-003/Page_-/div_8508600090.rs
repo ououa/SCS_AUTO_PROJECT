@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_8508600090</name>
+   <tag></tag>
+   <elementGuidId>4b98d628-c8bc-438d-9b7a-92ea1e8086e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-in-form-item ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-auto-complete ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-select-sm.ant-select-outlined.ant-select-in-form-item.ant-select-auto-complete</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49f8a1e7-9996-47be-b66d-f5cf0aa07f04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select ant-select-sm ant-select-outlined ant-select-in-form-item ant-select-status-success ant-select-auto-complete css-oiqwb9 ant-select-focused ant-select-single ant-select-allow-clear ant-select-show-search</value>
+      <webElementGuid>275ab487-2635-439f-88e8-072f65c1c1ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>8508600090</value>
+      <webElementGuid>f70fa964-87af-429b-a0d6-d891a267ba6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6c3ee6832ded373c8e110d697bf513c9</value>
+      <webElementGuid>81ba30d5-a5e8-4357-b7de-479b33546e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-in-form-item ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-auto-complete ')]</value>
+      <webElementGuid>bb2642fd-38c9-421a-98af-0afb3d049e04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-in-form-item ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-auto-complete ')]</value>
+      <webElementGuid>ef942bc3-5a82-4850-990c-7fa58d76f231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '8508600090' or . = '8508600090')]</value>
+      <webElementGuid>7054c7b8-7c5d-4fc5-b7ea-36c2f300be9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

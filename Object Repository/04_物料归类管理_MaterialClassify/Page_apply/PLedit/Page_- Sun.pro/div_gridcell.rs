@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_gridcell</name>
+   <tag></tag>
+   <elementGuidId>250979d4-fee8-424c-a82e-dbf1483005e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ag-row-even .ag-center-aligned[col-id=&quot;hsCode&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ag-row-even ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ag-center-aligned ') and (@col-id = 'hsCode')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;5108050009471 删除&quot;i] >> internal:role=gridcell >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>33b1bae8-f602-45dc-9044-ffdd30fb08f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>8b468e0d-22c7-40e0-8c01-c804fd28a29d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>1232422b-d79c-4317-8b4a-31200fbfb279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>col-id</name>
+      <type>Main</type>
+      <value>hsCode</value>
+      <webElementGuid>6c8a5e3e-7462-4fe8-8e0d-cb473404005a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-cell ag-cell-not-inline-editing ag-cell-normal-height ag-center-aligned ag-cell-value</value>
+      <webElementGuid>76ddd42b-4952-4fb5-be7b-a10644595fc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-colindex</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>6d80b6ac-455a-4569-892f-1adc732e68e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-51a8d31e4242d77b98fc4cf6fd7963be</value>
+      <webElementGuid>d073b08f-c29f-4634-8a1b-d7fb9edbaae0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ag-row-even ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ag-center-aligned ') and (@col-id = 'hsCode')]</value>
+      <webElementGuid>3710f19c-59ca-477f-aff9-1c6af5eb91dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ag-row-even ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ag-center-aligned ') and (@col-id = 'hsCode')]</value>
+      <webElementGuid>70e37ece-e7c9-43ed-9e8e-7da0e0ddf044</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

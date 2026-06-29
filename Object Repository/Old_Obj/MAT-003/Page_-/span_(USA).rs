@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_(USA)</name>
+   <tag></tag>
+   <elementGuidId>3503ff10-4839-44f9-a498-059b4a3eb346</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and (@title = '(USA)美国')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.truncate[title=&quot;\(USA\)美国&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>21f2946f-7474-43db-9378-6cd36f4b2277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 text-left truncate</value>
+      <webElementGuid>def30c6f-3bbf-45ae-a997-886cda267748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>(USA)美国</value>
+      <webElementGuid>fe0bbf8a-7eae-4b0d-ab2e-06757295f003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(USA)美国</value>
+      <webElementGuid>11a34b62-0640-402f-9a46-a6fef7bf90f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-078c15e1df17124e2558128d9289824a</value>
+      <webElementGuid>fe55c110-fa2a-4200-9748-5f1495bb0b50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and (@title = '(USA)美国')]</value>
+      <webElementGuid>0b3a4a4f-cae2-4f47-b4b8-f8f3e68d5456</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' truncate ') and (@title = '(USA)美国')]</value>
+      <webElementGuid>f3bda191-33ae-4266-9bbe-9a1f25a419a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '(USA)美国' and (text() = '(USA)美国' or . = '(USA)美国')]</value>
+      <webElementGuid>dece3f06-8b03-4d3f-9ce3-12e5cdcd7ff9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

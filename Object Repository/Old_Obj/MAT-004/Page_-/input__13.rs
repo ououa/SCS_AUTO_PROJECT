@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__13</name>
+   <tag></tag>
+   <elementGuidId>dd20332a-1ab5-4d3c-84d1-b094ffee4e2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@id = 'gModel') and @class and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-status-success ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#gModel.ant-input-sm.ant-input-outlined.ant-input-status-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f55d9916-d3dd-4c10-ae15-85c80182ecaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>gModel</value>
+      <webElementGuid>8b00c6af-773d-4be2-bda9-e72c74ef1184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-sm css-oiqwb9 ant-input-outlined ant-input-status-success</value>
+      <webElementGuid>37edb7e7-62a2-4b68-91c3-564612234d3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>07becac9-dc6f-4a3f-a100-f4328d7c1a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>CC/DWW1A5</value>
+      <webElementGuid>ffa7d283-17fd-4c3d-9371-f1c24878099c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-78667585b23030b35b23507cf554d83b</value>
+      <webElementGuid>f08215de-3ab3-48a2-a3bb-a0880c9e095d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@id = 'gModel') and @class and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-status-success ')]</value>
+      <webElementGuid>2ad5abcc-67c7-4d32-b129-61755c54a4f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@id = 'gModel') and @class and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-status-success ')]</value>
+      <webElementGuid>0fd5259c-e8fe-49fe-ac90-757dd8e7ccdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'gModel' and @type = 'text']</value>
+      <webElementGuid>7709d0b5-4dc7-4c0a-841d-8b5aaa0865bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

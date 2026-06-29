@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1</name>
+   <tag></tag>
+   <elementGuidId>7acfb5f5-1aac-455f-b26d-7945bff163a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-cell-fix-left ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-cell-fix-left-last ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-table-cell-fix-left.ant-table-cell-fix-left-last</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>cc6b097c-9b10-487a-952c-553f201c2099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-table-cell ant-table-cell-fix-left ant-table-cell-fix-left-last ant-table-cell-row-hover</value>
+      <webElementGuid>7021c719-91b4-49c5-ac03-345647122b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6da18764-e628-4017-bcdf-c41ef1ab6e38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8d0306b10cfda8108f646459f8c9ba7e</value>
+      <webElementGuid>a5da3944-1bb5-49ed-982e-737e0e1ed32b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-cell-fix-left ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-cell-fix-left-last ')]</value>
+      <webElementGuid>84b0ab41-9641-4b0d-950e-6bde2f9e4298</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-cell-fix-left ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-cell-fix-left-last ')]</value>
+      <webElementGuid>972d948c-2688-4a60-86fe-4d9503bb780a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '1' or . = '1')]</value>
+      <webElementGuid>946575ff-35b4-4379-adfa-3a942737aeee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

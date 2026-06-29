@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ant-checkbox-input</name>
+   <tag></tag>
+   <elementGuidId>8397d7b1-9cce-419b-94e1-33a17df600b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-table-row:nth-child(2) .ant-checkbox-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-row ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 系统创建 MAT061602 阴极片 料件 草稿 启用 - - 否 - 007 申请 归类 归并 eye 查看 edit 修改 delete 删除&quot;i] >> internal:label=&quot;&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c4f366f6-86b2-4250-958f-99589c59179f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-input</value>
+      <webElementGuid>1d70464f-44cd-49d9-962d-715e582994e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>b83a2f88-2b2e-4282-b10d-1f4716eb348d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9b474b18b310dcc72c02b83bd4187d45</value>
+      <webElementGuid>b3f8acb9-3ad0-4067-b8e5-2d273aa9f650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-row ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      <webElementGuid>2df3dc12-ba05-4f4a-ade8-31a152274454</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-table-row ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-checkbox-input ')]</value>
+      <webElementGuid>f2e80091-67c9-40d0-b6ab-4a5ee67078e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>0bfaef0e-cdc1-4ea4-ad47-4c5a45f66ab0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

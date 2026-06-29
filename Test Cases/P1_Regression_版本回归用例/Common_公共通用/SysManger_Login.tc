@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>登录</description>
+   <name>SysManger_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b859081-12d9-41ce-bd6f-45912b09bd26</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ec7d45a4-39a1-4f74-94af-65cf3efffe64</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data_Login</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ec7d45a4-39a1-4f74-94af-65cf3efffe64</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>1877c076-8112-4eea-8a36-ec6127b3ae3b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ec7d45a4-39a1-4f74-94af-65cf3efffe64</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>558e6aa0-0629-41ba-8527-b1e7a0faab55</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Data_Login')</defaultValue>
+      <description></description>
+      <id>1877c076-8112-4eea-8a36-ec6127b3ae3b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Data_Login')</defaultValue>
+      <description></description>
+      <id>558e6aa0-0629-41ba-8527-b1e7a0faab55</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

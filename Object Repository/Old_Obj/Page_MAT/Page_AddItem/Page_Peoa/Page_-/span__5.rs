@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__5</name>
+   <tag></tag>
+   <elementGuidId>996e1678-7e10-42b1-a2fc-f634b6e4e40d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;供应商&quot;] .ant-select-item-option-content span:nth-child(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ice-container']/div/div/div/div[2]/aside/div/div[2]/ul/li[2]/span/a/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;供应商&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>737557b5-3854-4d01-a694-bb44db490f69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shrink-0 leading-5 text-gray-700</value>
+      <webElementGuid>92a9ab2d-b2c7-4c16-be71-54f3cb38a6ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>供应商</value>
+      <webElementGuid>6ae8a09a-0603-40f9-ad02-675e32c11990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-499b24dc5ec001fac5ef1937aed79c23</value>
+      <webElementGuid>281f1374-5b20-47cc-a86a-48f2d3c6c9e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = '供应商']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
+      <webElementGuid>822e7fef-30f5-4a14-88ee-3397bd8b2858</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = '供应商']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
+      <webElementGuid>d866e86d-6ef1-486c-9cb5-dff6eb3008e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '供应商' or . = '供应商')]</value>
+      <webElementGuid>eeaabb8a-c3d6-4126-8379-d8ee5edb2c2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

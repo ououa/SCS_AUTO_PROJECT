@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ant-select-selection-item_1</name>
+   <tag></tag>
+   <elementGuidId>064dafbe-7623-4619-92c2-8c0463ede49b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-in-form-item ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-status-success ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-single ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-allow-clear ') and (@aria-required = 'true')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-selection-item ') and (@title = '')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-select-sm.ant-select-outlined.ant-select-in-form-item.ant-select-status-success.ant-select.ant-select-single.ant-select-allow-clear[aria-required=&quot;true&quot;] .ant-select-selection-item[title=&quot;&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>729791ae-12b1-48b5-a431-c5ae3cc3455c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>e3bb0cae-d1e2-46c2-aed0-ca848e3826e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-305b132b9a9b822d430670e7625d0980</value>
+      <webElementGuid>bd57b0f2-9173-4511-8821-5ef28ee9bb4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-in-form-item ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-status-success ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-single ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-allow-clear ') and (@aria-required = 'true')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-selection-item ') and (@title = '')]</value>
+      <webElementGuid>aceb9cf1-2ec7-438b-986f-a79852e66717</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-in-form-item ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-status-success ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-single ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-allow-clear ') and (@aria-required = 'true')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-selection-item ') and (@title = '')]</value>
+      <webElementGuid>cf01f69c-4469-4144-badb-7b3fe287c22b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

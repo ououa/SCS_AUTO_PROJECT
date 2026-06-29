@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2</name>
+   <tag></tag>
+   <elementGuidId>00017619-a0df-476b-8f7a-81473f1b31d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.w-max.min-w-full.items-center.gap-1.whitespace-nowrap.pr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ERP单价'])[3]/following::div[75]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;2供应商&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4bd8fca0-b111-4fb5-9b79-9f5ebed20391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex w-max min-w-full items-center gap-1 whitespace-nowrap pr-2</value>
+      <webElementGuid>77f00f14-b31a-4d6d-917a-d7b232cc580e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>2 供应商</value>
+      <webElementGuid>7ee71179-b4fc-48b4-a6da-b715e027e9de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2供应商</value>
+      <webElementGuid>a1833cde-f3b2-4713-9f72-dd90ee90d6fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[@class=&quot;ant-select-dropdown css-oiqwb9 ant-select-dropdown-placement-bottomLeft&quot;]/div[1]/div[@class=&quot;rc-virtual-list&quot;]/div[@class=&quot;rc-virtual-list-holder&quot;]/div[1]/div[@class=&quot;rc-virtual-list-holder-inner&quot;]/div[@class=&quot;ant-select-item ant-select-item-option ant-select-item-option-active&quot;]/div[@class=&quot;ant-select-item-option-content&quot;]/div[@class=&quot;flex w-max min-w-full items-center gap-1 whitespace-nowrap pr-2&quot;]</value>
+      <webElementGuid>1da02b46-f47d-4749-89f0-21caf9a1e7d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ERP单价'])[3]/following::div[75]</value>
+      <webElementGuid>3c0c9228-8b6e-4c23-9cde-6a3f1101ae4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='库存组织名称'])[5]/following::div[83]</value>
+      <webElementGuid>9d1fcedd-68b1-42e0-9ffa-cee8a80b8dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>04e2d5cd-0ece-488e-b9d9-987fd6a03a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = '2 供应商' and (text() = '2供应商' or . = '2供应商')]</value>
+      <webElementGuid>34a1cd66-d3ee-44d8-ae04-d2bbefe0a565</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

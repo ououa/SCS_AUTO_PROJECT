@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_submitfs_sure</name>
+   <tag></tag>
+   <elementGuidId>6ca6ceb9-68eb-4d22-b899-007a7de35bfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.css-mncuj7.ant-btn-primary.ant-btn-color-primary.ant-btn-variant-solid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[88]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;确 认&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>99014f47-c8c8-43b3-a782-b23e80b9c65e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7cff7006-95fc-442f-8117-cde372b1af09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-mncuj7 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid</value>
+      <webElementGuid>fd50d0e0-bcc5-4f18-906a-a2b9d408f62a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>确 认</value>
+      <webElementGuid>889bfe28-3eaf-4071-8478-876de14000ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[16]/div[@class=&quot;ant-modal-root css-mncuj7&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal css-mncuj7 ant-modal-confirm ant-modal-confirm-confirm&quot;]/div[1]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;ant-modal-confirm-body-wrapper&quot;]/div[@class=&quot;ant-modal-confirm-btns&quot;]/button[@class=&quot;ant-btn css-mncuj7 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid&quot;]</value>
+      <webElementGuid>26d04953-98dd-468a-b08b-b862c3782418</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[88]</value>
+      <webElementGuid>6f9e66f0-974a-413a-bd0d-1eb14d699366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='关 闭'])[1]/following::button[1]</value>
+      <webElementGuid>9be8d1bb-9084-4fd7-93de-7aee611d66ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='是否确认回卷'])[1]/following::button[2]</value>
+      <webElementGuid>75b388df-dd83-47b2-a16d-41f366f6760a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div[2]/button[2]</value>
+      <webElementGuid>07b178d4-33be-4bcd-99c9-6ef7dd37c956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '确 认' or . = '确 认')]</value>
+      <webElementGuid>a28563d2-1a32-4f89-94b7-848b4c211bfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

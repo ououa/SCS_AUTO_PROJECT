@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1</name>
+   <tag></tag>
+   <elementGuidId>1003109c-0d9d-42cc-b291-3ffe16423e40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;料件&quot;] .ant-select-item-option-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = '料件']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;料件&quot;s] >> div >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f9cc57b-dfce-4ac2-a861-1a39a5e7f340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>621dce13-3a3a-488f-8fef-3915e34b054e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1料件</value>
+      <webElementGuid>e9a2fa88-ff27-4518-b788-f55dc2657012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9e16c12f713d79a8ade6f66c52df0014</value>
+      <webElementGuid>1c935107-d405-434c-8338-d246db16e0f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = '料件']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      <webElementGuid>3356f924-f337-4853-94c7-208cb8d98584</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = '料件']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      <webElementGuid>e9ee4556-1a3b-4d81-8d87-bcac8e03357a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1料件' or . = '1料件')]</value>
+      <webElementGuid>981e4833-65b3-4a7d-b218-cdf27441d60b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>获取物料主数据</description>
+   <name>Getdata</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e248359f-3b76-4570-a0e6-d9af2d382a1b</testCaseGuid>
+</TestCaseEntity>

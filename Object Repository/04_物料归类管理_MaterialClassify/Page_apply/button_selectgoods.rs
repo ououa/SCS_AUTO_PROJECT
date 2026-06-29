@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_selectgoods</name>
+   <tag></tag>
+   <elementGuidId>0b09b296-016c-41c9-9c43-39886386df00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.items-center.flex-1 > div.ant-space.css-oiqwb9.ant-space-horizontal.ant-space-align-center.ant-space-gap-row-small.ant-space-gap-col-small > div.ant-space-item > button.ant-btn.css-oiqwb9.ant-btn-primary.ant-btn-color-primary.ant-btn-variant-solid.ant-btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[13]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;plus 选择商品&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>94c3ef25-ea47-49e1-9d6d-3f987ab6526f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>35ba6ffb-2967-4430-b4a4-72ac158554e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-oiqwb9 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid ant-btn-sm</value>
+      <webElementGuid>575c8710-461b-4339-8e93-f53a3bd7d36f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>选择商品</value>
+      <webElementGuid>302cd897-8f83-49b7-9bb9-fa9fc61ee724</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ice-container&quot;)/div[@class=&quot;css-oiqwb9 ant-app&quot;]/div[1]/div[@class=&quot;layout--co76upfi xwd-layout css-oiqwb9 ant-design-pro xwd-layout screen-lg xwd-layout-fix-siderbar xwd-layout-side&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-oiqwb9&quot;]/div[@class=&quot;xwd-layout-container css-oiqwb9&quot;]/main[@class=&quot;ant-layout-content xwd-layout-content css-oiqwb9 xwd-layout-has-header css-oiqwb9&quot;]/div[@class=&quot;workspace--ZB0SbHtA&quot;]/div[@class=&quot;pageContent--RS0l6HnF mt-2&quot;]/div[@class=&quot;ka-wrapper&quot;]/div[@class=&quot;ka-content&quot;]/div[@class=&quot;container--dx_3D2cm&quot;]/div[@class=&quot;content--uTjKVrTN&quot;]/section[@class=&quot;sectionBlock--uErZ6WKz listSectionNoHeader--QDP0RdU8&quot;]/div[@class=&quot;pageSectionContent--aBpM98I1 listSectionContent--PyhfRyQI&quot;]/div[@class=&quot;pageStack--r_SsVsHo&quot;]/div[@class=&quot;mainTableScope--KKkJfMpQ&quot;]/div[@class=&quot;space-y-1&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small css-oiqwb9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-pro-table-shell  ant-pro-table-shell--body-min-height&quot;]/div[@class=&quot;ant-pro-table css-oiqwb9&quot;]/div[@class=&quot;ant-pro-card css-oiqwb9&quot;]/div[@class=&quot;ant-pro-card-body css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-container css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-right css-oiqwb9&quot;]/div[@class=&quot;flex items-center flex-1&quot;]/div[@class=&quot;ant-space css-oiqwb9 ant-space-horizontal ant-space-align-center ant-space-gap-row-small ant-space-gap-col-small&quot;]/div[@class=&quot;ant-space-item&quot;]/button[@class=&quot;ant-btn css-oiqwb9 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid ant-btn-sm&quot;]</value>
+      <webElementGuid>c4bfe577-23c5-4c27-81a4-d40358025175</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>2636b2ed-50e5-42c4-a384-c361d9031ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ice-container']/div/div/div/div[2]/div[2]/main/div/div[2]/div/div/div/div/section/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/button</value>
+      <webElementGuid>aa0eb10a-13b7-4967-ba23-b8712c3d8212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='重置'])[1]/following::button[1]</value>
+      <webElementGuid>8d71a95d-6271-4f30-9508-8772b4d425d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='查询'])[1]/following::button[2]</value>
+      <webElementGuid>e10f32dd-3d39-42d5-9c6b-2e2ef42d3383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='批量维护'])[1]/preceding::button[1]</value>
+      <webElementGuid>1bd3383a-ba34-4a2d-bc4a-fa68db58ca69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button</value>
+      <webElementGuid>365b5ddf-537f-4c29-a71b-f0b89f89c61b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '选择商品' or . = '选择商品')]</value>
+      <webElementGuid>d7e01ce0-55d6-4a14-8c89-51306f172a83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

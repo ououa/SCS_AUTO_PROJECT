@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ant-select-selection-item</name>
+   <tag></tag>
+   <elementGuidId>3f32f363-4405-499f-a96b-0ef0f3111037</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.required-field.ant-select-sm .ant-select-selection-item[title=&quot;&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' required-field ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-sm ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-selection-item ') and (@title = '')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e0f05c1e-798b-4510-b4e6-81ed22c2a3aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>0a68264f-f9a2-40d8-bee9-075254ea6083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-de1637880077b18d0ffab8af4c994b1c</value>
+      <webElementGuid>f4fd4fe9-38e7-44a9-b767-82216e06428d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' required-field ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-sm ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-selection-item ') and (@title = '')]</value>
+      <webElementGuid>cc686eb5-b8f4-4b08-91c2-f2c0967e1e19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' required-field ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-sm ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-selection-item ') and (@title = '')]</value>
+      <webElementGuid>50186bd5-6ee0-49de-a162-a8a5abc9e90b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

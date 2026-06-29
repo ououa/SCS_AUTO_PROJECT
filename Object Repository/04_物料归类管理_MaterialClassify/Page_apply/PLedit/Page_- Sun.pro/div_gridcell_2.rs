@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_gridcell_2</name>
+   <tag></tag>
+   <elementGuidId>a02687a2-5c5e-426f-a6c9-a33e8c2d85d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ag-row-even .batch-maint-required-cell:nth-child(5)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ag-row-even ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' batch-maint-required-cell ') and (position() = 5)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.ag-row-even > div:nth-child(5)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b98f933b-edc5-4bc8-bb33-286ea5be234d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c0173aee-8f00-4451-a115-8c71c27a3e2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>8a24b650-6393-47f2-ba80-a33f5055ff06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>col-id</name>
+      <type>Main</type>
+      <value>646033121187208146</value>
+      <webElementGuid>e9a6c0a8-5f2c-44f4-968d-a45934a4f832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-cell ag-cell-not-inline-editing ag-cell-normal-height ag-cell-value batch-maint-required-cell</value>
+      <webElementGuid>696a69b7-b11f-4e32-946a-c0d0acd3a815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-colindex</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>e305eead-4655-459e-8f9b-5236d5fc550b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2e611b97d80aab1fae50ab61aa061681</value>
+      <webElementGuid>4cc21387-1c62-408c-b812-0ef027d1daf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ag-row-even ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' batch-maint-required-cell ') and (position() = 5)]</value>
+      <webElementGuid>ffc408f5-f068-466c-9dec-0e23b19928c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ag-row-even ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' batch-maint-required-cell ') and (position() = 5)]</value>
+      <webElementGuid>64651edf-036c-4ba6-b445-4fa98bf56900</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

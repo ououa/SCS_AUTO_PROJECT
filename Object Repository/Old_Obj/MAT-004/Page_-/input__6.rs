@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__6</name>
+   <tag></tag>
+   <elementGuidId>02c49b0a-7f53-4741-a42f-e91dd6f48a46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'ouName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ouName</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4292e4e9-05c9-485f-8aa4-3a5573a724ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>请输入事业部名称</value>
+      <webElementGuid>984e8281-149f-44b5-8b08-35ac39b9e350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ouName</value>
+      <webElementGuid>4a17020d-4fc4-4a45-8973-d5ac42657f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-sm css-oiqwb9</value>
+      <webElementGuid>46bec5bb-c6ba-4caa-83f5-110ef414cc96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1e8704ab-750f-4039-bb2f-f950ee5d3706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d0970c73d54a588ca96244bb5ead623d</value>
+      <webElementGuid>91f3e3cd-cdc1-4bc9-ad11-8f819d4171b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'ouName']</value>
+      <webElementGuid>11dc9711-92d5-42d2-b827-a5694a2da1ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'ouName']</value>
+      <webElementGuid>3787181b-78a5-4249-a4c6-2460eaa2422b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = '请输入事业部名称' and @id = 'ouName' and @type = 'text']</value>
+      <webElementGuid>1bf2f1de-35f2-4d0a-a53d-1b14c91294ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>37d72db6-0d54-4807-862b-8cca6dbe868f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-color-primary ') and (position() = 2)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-btn-primary.ant-btn.ant-btn-sm.ant-btn-color-primary:nth-child(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4672bb29-7971-4432-a79a-75f556edee1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>737abdff-60c5-4c41-b0ff-6781349f3943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-oiqwb9 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid ant-btn-sm</value>
+      <webElementGuid>7a91eac3-7db3-491f-b1e7-f8dfa9e9ff1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>复制</value>
+      <webElementGuid>a17007e8-2d35-4431-ad4d-4474c12b32a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ecc6551a6d46203a6215cc7ba2de4f57</value>
+      <webElementGuid>349e1f3e-97eb-43aa-962a-a9d21e772567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-color-primary ') and (position() = 2)]</value>
+      <webElementGuid>b6265ea9-ffb9-4cef-8348-28373bdaafc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-color-primary ') and (position() = 2)]</value>
+      <webElementGuid>556e1f14-6dae-48f4-a218-314dc912bd35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '复制' or . = '复制')]</value>
+      <webElementGuid>abbb6689-2996-4acf-b44d-a51494761907</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

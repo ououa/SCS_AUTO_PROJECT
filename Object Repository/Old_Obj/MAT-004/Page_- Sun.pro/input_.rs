@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_</name>
+   <tag></tag>
+   <elementGuidId>e59846b5-6cbf-4023-8b0b-a8c96b1e6e96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'itemName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#itemName</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>effc9e27-c699-4135-b910-a579167c3cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>请输入货物名称</value>
+      <webElementGuid>5b956e65-2900-4e1e-bf4b-24438cda00fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>itemName</value>
+      <webElementGuid>e97dc692-7d6d-4817-8a5c-f7a654d16d0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-sm css-oiqwb9</value>
+      <webElementGuid>ff9b6453-e8a9-4dd1-bbb9-aa61cc2a85df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>dcbc47ce-13b5-4e7f-a933-219d7d5c6a0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e616e1a6f8d11798baffd4c5a0719249</value>
+      <webElementGuid>9738b7ad-d5dd-412c-9bef-ec0019b648da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'itemName']</value>
+      <webElementGuid>4afd4023-7b72-46e5-9c85-e568587c65ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'itemName']</value>
+      <webElementGuid>7e03a752-117a-4d2a-8b02-ffbb93674562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = '请输入货物名称' and @id = 'itemName' and @type = 'text']</value>
+      <webElementGuid>93db82c3-f50e-42be-8550-5b364f8ba99b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

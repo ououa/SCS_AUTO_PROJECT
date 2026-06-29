@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__1</name>
+   <tag></tag>
+   <elementGuidId>c8b8903b-471e-4782-ad51-3fb72e132a34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.pageActionBar--fVxrBGie</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pageActionBar--fVxrBGie ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^返回主表保存保存并提交$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e1291473-93a7-41cc-81de-7bf68cf4815f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pageActionBar--fVxrBGie detailActionBar--fDHLlae8</value>
+      <webElementGuid>cf9f64c3-97c5-49d7-a53e-338355ecb362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-page-title</name>
+      <type>Main</type>
+      <value>新增物料主档</value>
+      <webElementGuid>094f0bdd-4b84-4239-804a-168611bed1f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-page-desc</name>
+      <type>Main</type>
+      <value>EnterpriseProductArchives</value>
+      <webElementGuid>f14604a1-a8d2-4cf0-8bd0-bdafa873b539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>返回主表保存保存并提交</value>
+      <webElementGuid>caba661a-f9a9-4636-8291-a2603e310a23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-89dc3ba79f2edd4dc5d984344e2a0b7f</value>
+      <webElementGuid>a502c366-b121-4c5e-b29b-3aaa61a8c7b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pageActionBar--fVxrBGie ')]</value>
+      <webElementGuid>0cf963ae-1894-4b18-9607-0318f68a20d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pageActionBar--fVxrBGie ')]</value>
+      <webElementGuid>8723033f-28bd-4c9e-8d40-ebb6bad6cf26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '返回主表保存保存并提交' or . = '返回主表保存保存并提交')]</value>
+      <webElementGuid>a65ebd67-602f-4449-b8be-530cf50fedbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

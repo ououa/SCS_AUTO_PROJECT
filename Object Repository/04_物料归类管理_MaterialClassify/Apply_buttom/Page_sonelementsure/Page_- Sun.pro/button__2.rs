@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__2</name>
+   <tag></tag>
+   <elementGuidId>69d09c59-6fa8-44bc-951a-d12b778cbcfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-horizontal ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-align-center ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-gap-row-small ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-item ') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-variant-solid ') and (@type = 'button')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-space.ant-space-horizontal.ant-space-align-center.ant-space-gap-row-small .ant-space-item:nth-child(5) .ant-btn-primary.ant-btn.ant-btn-sm.ant-btn-color-primary.ant-btn-variant-solid[type=&quot;button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; 子申报要素确认&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7cac40ae-37bc-482a-9156-6fe525f82cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d99a26eb-3f03-467d-869b-ed65714a0e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-oiqwb9 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid ant-btn-sm</value>
+      <webElementGuid>3d445b5f-f319-4842-b5e3-4c4a14204e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>子申报要素确认</value>
+      <webElementGuid>5d99f649-c822-44e3-b15a-5ab82eca03e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e4c3d50054837ca9aaec29ebfb03c778</value>
+      <webElementGuid>f14463e5-830d-4f27-866f-26c1166186b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-horizontal ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-align-center ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-gap-row-small ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-item ') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-variant-solid ') and (@type = 'button')]</value>
+      <webElementGuid>28f52248-da0c-4375-9dec-c3f4253877d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-horizontal ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-align-center ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-gap-row-small ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-item ') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-variant-solid ') and (@type = 'button')]</value>
+      <webElementGuid>2a9b1591-cade-462f-9f23-ebcd190d6f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '子申报要素确认' or . = '子申报要素确认')]</value>
+      <webElementGuid>ee97f777-58c0-4e8f-93d6-7476ce9accb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__r9i</name>
+   <tag></tag>
+   <elementGuidId>88196070-ee98-4628-b1e1-684f231b9957</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-describedby = ':r9i:']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-describedby=&quot;\:r9i\:&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8fe1f4a4-7367-45e2-84e3-a6c0fb40ec68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line css-oiqwb9</value>
+      <webElementGuid>62c57a3e-06eb-46d4-97de-80d8b975b5c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>:r9i:</value>
+      <webElementGuid>76be1ebc-397b-4bab-8ad9-68f32982512a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>270</value>
+      <webElementGuid>47b47bb6-5600-4488-a76e-97e080ec22fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f16e3f9340a38c243ec0a7f494b41072</value>
+      <webElementGuid>40dc71ca-aacf-4c5e-9ad1-60b4108ec684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r9i:']</value>
+      <webElementGuid>2ae8ceb9-f290-4c98-ae96-7e11a4b4223b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r9i:']</value>
+      <webElementGuid>6c67e2b8-0b2e-4f4d-b5c2-b744e24d50bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '270' or . = '270')]</value>
+      <webElementGuid>1ffafbab-2d51-4bfb-93a4-0997e86d0b3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

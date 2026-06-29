@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_add</name>
+   <tag></tag>
+   <elementGuidId>34024385-3a86-4947-a7aa-029382f6dfb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-wrap.gap-2 > button.ant-btn.css-oiqwb9.ant-btn-primary.ant-btn-color-primary.ant-btn-variant-solid.ant-btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;plus 新增&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>501be805-4e9d-4acd-88b6-fa2b1d6f08f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>98af1254-ba2c-4c0c-85bf-02f133d615e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-oiqwb9 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid ant-btn-sm</value>
+      <webElementGuid>2cf99353-bec9-4793-91c6-aeaf72745f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>新增</value>
+      <webElementGuid>5f4d471a-6156-4e5e-aaa7-94ff443bf276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-1-panel-main&quot;)/div[@class=&quot;pageStack--r_SsVsHo&quot;]/div[@class=&quot;mainTableScope--KKkJfMpQ&quot;]/div[@class=&quot;space-y-1&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small css-oiqwb9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-pro-table-shell  ant-pro-table-shell--body-min-height&quot;]/div[@class=&quot;ant-pro-table css-oiqwb9&quot;]/div[@class=&quot;ant-pro-card css-oiqwb9&quot;]/div[@class=&quot;ant-pro-card-body css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-container css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-right css-oiqwb9&quot;]/div[@class=&quot;flex items-center flex-1&quot;]/div[@class=&quot;ant-space css-oiqwb9 ant-space-horizontal ant-space-align-center ant-space-gap-row-small ant-space-gap-col-small&quot;]/div[@class=&quot;ant-space-item&quot;]/div[@class=&quot;flex flex-wrap gap-2&quot;]/button[@class=&quot;ant-btn css-oiqwb9 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid ant-btn-sm&quot;]</value>
+      <webElementGuid>264756dc-e53b-4309-ac81-ef9f371cf1ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>7e43eaf2-6c94-46b2-97fe-21d65f3ab0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-1-panel-main']/div/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>faad5576-085e-44b9-8ddb-3bae9556896a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='收起'])[1]/following::button[1]</value>
+      <webElementGuid>18bfab0c-6ac0-467c-9ad6-ddbaff13b102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='重置'])[1]/following::button[2]</value>
+      <webElementGuid>6129d540-65e6-47dd-9e05-cb7d0c16a989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='复制'])[1]/preceding::button[1]</value>
+      <webElementGuid>afea2621-adca-477b-bc56-50aa83ec83f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>b83c36c5-8c36-4a4f-809e-181839e07557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '新增' or . = '新增')]</value>
+      <webElementGuid>487deae2-dbf6-45fd-bd04-8c54683f423d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

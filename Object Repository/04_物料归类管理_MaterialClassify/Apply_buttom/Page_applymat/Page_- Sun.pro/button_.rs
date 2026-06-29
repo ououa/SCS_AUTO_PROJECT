@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>156cde94-b12a-42bb-b365-988855d4b170</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-item ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-horizontal ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-align-center ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-gap-row-small ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-variant-solid ') and (@type = 'button')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-space-item .ant-space.ant-space-horizontal.ant-space-align-center.ant-space-gap-row-small .ant-btn-primary.ant-btn.ant-btn-sm.ant-btn-color-primary.ant-btn-variant-solid[type=&quot;button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;search 查询&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9f3ee2fb-ad16-4ae5-aeea-5b5b05660ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9862c930-bbaf-4a7a-80ef-1ac3cad68170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-oiqwb9 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid ant-btn-sm</value>
+      <webElementGuid>b3361ef1-1e30-4513-a571-fa7060ac8ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>查询</value>
+      <webElementGuid>87093235-1994-4969-b22f-6014f02b4729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-dc566881a0f3fcb7bcd560808abbaa36</value>
+      <webElementGuid>caf50208-174d-40c8-a43e-f664af620e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-item ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-horizontal ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-align-center ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-gap-row-small ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-variant-solid ') and (@type = 'button')]</value>
+      <webElementGuid>24456e7c-909b-402a-aafa-a88e6e39d5f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-item ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-horizontal ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-align-center ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-gap-row-small ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-variant-solid ') and (@type = 'button')]</value>
+      <webElementGuid>d303a5fe-babb-4c3f-8781-885ab2089756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '查询' or . = '查询')]</value>
+      <webElementGuid>5e55fe12-a86f-4340-ab57-974decc6ffd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

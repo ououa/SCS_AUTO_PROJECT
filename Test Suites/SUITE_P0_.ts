@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SUITE_P0_</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b1f3ed44-29d7-4188-bf8a-7f2f84d089b8</testSuiteGuid>
+   <testCaseLink>
+      <guid>58db5b14-2f8e-4961-9082-fe6d04aeca05</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/P1_Regression_版本回归用例/Common_公共通用/SysManger_Login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1877c076-8112-4eea-8a36-ec6127b3ae3b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>558e6aa0-0629-41ba-8527-b1e7a0faab55</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f1f5985a-ea5f-47b9-acec-a329d9728ee9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/P1_Regression_版本回归用例/04_MaterialClassify_物料归类/MaterialMainPage_物料主档页/TC_ADD_001_新增物料主档_含事业部和定价</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>af970874-19c1-4af9-9fb4-59a92b8ccd56</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

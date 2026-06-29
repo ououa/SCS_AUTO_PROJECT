@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__3</name>
+   <tag></tag>
+   <elementGuidId>7cbf4a27-b84b-40eb-aa79-c20891443f59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#changeReason.ant-input-sm.ant-input-outlined.ant-input-status-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@id = 'changeReason') and @class and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-status-success ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;变更说明&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>75641cad-b4cf-4242-bc36-b31dff29d6bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>changeReason</value>
+      <webElementGuid>07be63e7-7d47-4074-8d0c-d8eae31b2163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-sm css-oiqwb9 ant-input-outlined ant-input-status-success</value>
+      <webElementGuid>298d6bcc-46f4-4a87-b3f9-8cab090b3143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>2490a500-edc2-4ff2-bb0b-861dd319ff01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7c17618a6ef5e90ebdb95340401ce2c7</value>
+      <webElementGuid>a2a46d4b-7915-475a-bf90-6b8c14959880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@id = 'changeReason') and @class and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-status-success ')]</value>
+      <webElementGuid>a294ed91-150e-41aa-a34e-3d55653a88bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@id = 'changeReason') and @class and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-outlined ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-input-status-success ')]</value>
+      <webElementGuid>d5567ed1-de53-4cc3-93cb-c8320a21954e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'changeReason' and @type = 'text']</value>
+      <webElementGuid>5b89c16c-d7ec-4473-8280-2e742df97de1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

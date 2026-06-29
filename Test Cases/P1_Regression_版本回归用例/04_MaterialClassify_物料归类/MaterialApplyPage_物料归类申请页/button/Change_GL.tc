@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change_GL</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ccf65af9-bf13-45cb-822e-41fc45da455f</testCaseGuid>
+   <variable>
+      <defaultValue>3902000091431</defaultValue>
+      <description>物料编码</description>
+      <id>d525e342-9744-4324-9615-83e061ec60d5</id>
+      <masked>false</masked>
+      <name>materialCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'归类变更原因'</defaultValue>
+      <description>变更原因</description>
+      <id>33e22efa-b0f1-4ce4-8b1d-6c3c6ac82f09</id>
+      <masked>false</masked>
+      <name>changeReason</name>
+   </variable>
+   <variable>
+      <defaultValue>'G250723109'</defaultValue>
+      <description>登录账号</description>
+      <id>db707f89-1630-42f0-9074-ed914747814a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

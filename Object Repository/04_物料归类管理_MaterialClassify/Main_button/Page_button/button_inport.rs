@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_inport</name>
+   <tag></tag>
+   <elementGuidId>0d350bb8-000f-4a31-9804-05bb15c1f579</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.items-center.flex-1 > div.ant-space.css-oiqwb9.ant-space-horizontal.ant-space-align-center.ant-space-gap-row-small.ant-space-gap-col-small > div.ant-space-item > button.ant-btn.css-oiqwb9.ant-btn-primary.ant-btn-color-primary.ant-btn-variant-solid.ant-btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[18]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; 导入&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4f667e99-9a22-4136-b2a4-5da3ff6237d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>efbdb0af-b8cb-4355-b401-5a1d3209ecfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-oiqwb9 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid ant-btn-sm</value>
+      <webElementGuid>93e4ca21-68a1-4ae2-8f0f-d6f5d031b5f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>导入</value>
+      <webElementGuid>f030f674-3065-4379-bf23-a258c710a131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-1-panel-main&quot;)/div[@class=&quot;pageStack--r_SsVsHo&quot;]/div[@class=&quot;mainTableScope--KKkJfMpQ&quot;]/div[@class=&quot;space-y-1&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small css-oiqwb9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-pro-table-shell  ant-pro-table-shell--body-min-height&quot;]/div[@class=&quot;ant-pro-table css-oiqwb9&quot;]/div[@class=&quot;ant-pro-card css-oiqwb9&quot;]/div[@class=&quot;ant-pro-card-body css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-container css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-right css-oiqwb9&quot;]/div[@class=&quot;flex items-center flex-1&quot;]/div[@class=&quot;ant-space css-oiqwb9 ant-space-horizontal ant-space-align-center ant-space-gap-row-small ant-space-gap-col-small&quot;]/div[@class=&quot;ant-space-item&quot;]/button[@class=&quot;ant-btn css-oiqwb9 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid ant-btn-sm&quot;]</value>
+      <webElementGuid>5c5952e0-c9df-4bc5-898d-3c1f6db5a818</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[18]</value>
+      <webElementGuid>a9353ea6-61f8-4339-b1ba-768b4f02bdc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-1-panel-main']/div/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>65143b09-b4cd-4176-8800-d113e586e3c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='获取主数据'])[1]/following::button[1]</value>
+      <webElementGuid>55543988-5575-4223-a363-04a83c9a5970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提交商品维护'])[1]/following::button[2]</value>
+      <webElementGuid>15439595-1d4d-48ae-b920-a60193cea55b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='导出'])[1]/preceding::button[1]</value>
+      <webElementGuid>03115e05-1ce1-4b2a-9f3f-5303ff1e5009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/button</value>
+      <webElementGuid>eaf8fa24-4016-44ac-ad10-0055b01bbb61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '导入' or . = '导入')]</value>
+      <webElementGuid>3994756a-fc50-4297-a1e9-75f9a8beeafe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

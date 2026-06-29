@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>df497548-f5a4-4e8d-9186-d21531f97df9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-item.ant-menu-item-active.ant-menu-item-only-child.xwd-base-menu-inline-menu-item > span.ant-menu-title-content > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ice-container']/div/div/div/div[2]/aside/div/div[2]/ul/li[2]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;供应商物料维护&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>af7add64-6ff4-4984-85b5-87213f39fa80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>:r1u:</value>
+      <webElementGuid>ade0d3c4-030a-435a-9f2c-5fc6e4fbf06b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ClassManagement/SupplierMaintenance</value>
+      <webElementGuid>949e1f4c-9b87-40b1-bb95-39726f2747f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>供应商物料维护</value>
+      <webElementGuid>0bf7ff27-169d-445e-96c8-478ff874dcdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ice-container&quot;)/div[@class=&quot;css-oiqwb9 ant-app&quot;]/div[1]/div[@class=&quot;layout--co76upfi xwd-layout css-oiqwb9 ant-design-pro xwd-layout screen-xxl xwd-layout-fix-siderbar xwd-layout-side&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-oiqwb9&quot;]/aside[@class=&quot;ant-layout-sider ant-layout-sider-dark xwd-sider css-oiqwb9 xwd-sider-fixed xwd-sider-layout-side xwd-sider-light css-oiqwb9 css-4xmaf1&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/div[2]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-inline ant-menu-light xwd-sider-menu css-oiqwb9 css-4xmaf1 xwd-base-menu-inline css-4xmaf1&quot;]/li[@class=&quot;ant-menu-item ant-menu-item-active ant-menu-item-only-child xwd-base-menu-inline-menu-item&quot;]/span[@class=&quot;ant-menu-title-content&quot;]/a[1]</value>
+      <webElementGuid>2487219b-31c2-4634-9b70-27d3a556eea6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ice-container']/div/div/div/div[2]/aside/div/div[2]/ul/li[2]/span/a</value>
+      <webElementGuid>d4571d1b-1c2b-4404-95e9-4017461bf099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='物料主档管理'])[1]/following::a[1]</value>
+      <webElementGuid>076971fa-68ed-4ff4-90ec-2f59054fa848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='物料归类申请'])[1]/preceding::a[1]</value>
+      <webElementGuid>d629e7d2-a83d-497f-870a-2a8746a91031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ClassManagement/SupplierMaintenance')]</value>
+      <webElementGuid>69c43817-025f-4ac2-8e1a-4ac4d636b633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span/a</value>
+      <webElementGuid>b1ea3049-b5c5-448e-97ad-9cfc67881b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ClassManagement/SupplierMaintenance' and (text() = '供应商物料维护' or . = '供应商物料维护')]</value>
+      <webElementGuid>27a733f3-fa54-400e-b76e-9227cda61c63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

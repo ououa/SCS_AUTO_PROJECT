@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__14</name>
+   <tag></tag>
+   <elementGuidId>21b20420-4c62-49ef-98b2-c346a1a18e18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-form ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-form-horizontal ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-form-small ') and contains(concat(' ', normalize-space(@class), ' '), ' compact-form ') and (@autocomplete = 'off')]//*[@id = 'elements']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.ant-form.ant-form-horizontal.ant-form-small.compact-form[autocomplete=&quot;off&quot;] #elements</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>270dd9c0-8673-4915-acc6-da4fa3bddd55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>elements</value>
+      <webElementGuid>82fb85f9-898c-44ce-88ee-297a418b4965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e8804e6c-fc56-4b4c-9c78-96b974366a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-sm css-oiqwb9</value>
+      <webElementGuid>ddbce5f2-a82e-4525-a68d-3cafb8d35fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>67d5c6f5-06b4-4914-8769-f91833477a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d328c298485ebed99c752b87cfff8f2f</value>
+      <webElementGuid>f6bd89ca-ba5c-4c8e-8c86-d1cccca6464b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-form ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-form-horizontal ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-form-small ') and contains(concat(' ', normalize-space(@class), ' '), ' compact-form ') and (@autocomplete = 'off')]//*[@id = 'elements']</value>
+      <webElementGuid>40c4c8e4-af1f-4e13-a070-00a4ddcec170</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//form[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-form ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-form-horizontal ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-form-small ') and contains(concat(' ', normalize-space(@class), ' '), ' compact-form ') and (@autocomplete = 'off')]//*[@id = 'elements']</value>
+      <webElementGuid>f9950a23-464a-4a9f-8834-258643270daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'elements' and @type = 'text']</value>
+      <webElementGuid>22592898-f1b0-412f-aae4-57cc08d7d9f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

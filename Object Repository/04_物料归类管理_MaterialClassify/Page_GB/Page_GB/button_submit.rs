@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_submit</name>
+   <tag></tag>
+   <elementGuidId>0738a842-6bbc-45c3-8ec8-4bbf05f4e466</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.items-center.flex-1 > div.ant-space.css-oiqwb9.ant-space-horizontal.ant-space-align-center.ant-space-gap-row-small.ant-space-gap-col-small > div.ant-space-item > button.ant-btn.css-oiqwb9.ant-btn-primary.ant-btn-color-primary.ant-btn-variant-solid.ant-btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;diff 提交复审&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>693ced17-c034-4f10-b6a1-418ecbf47d00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>516492e3-046f-415f-aa00-9204429bf2df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-oiqwb9 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid ant-btn-sm</value>
+      <webElementGuid>364ca820-7395-4040-80af-b52dee2ef0cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>提交复审</value>
+      <webElementGuid>186ab337-70e0-4e0c-bbb7-656ffe8de4ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ice-container&quot;)/div[@class=&quot;css-oiqwb9 ant-app&quot;]/div[1]/div[@class=&quot;layout--co76upfi xwd-layout css-oiqwb9 ant-design-pro xwd-layout screen-xl xwd-layout-fix-siderbar xwd-layout-side&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-oiqwb9&quot;]/div[@class=&quot;xwd-layout-container css-oiqwb9&quot;]/main[@class=&quot;ant-layout-content xwd-layout-content css-oiqwb9 xwd-layout-has-header css-oiqwb9&quot;]/div[@class=&quot;workspace--ZB0SbHtA&quot;]/div[@class=&quot;pageContent--RS0l6HnF mt-2&quot;]/div[@class=&quot;ka-wrapper&quot;]/div[@class=&quot;ka-content&quot;]/div[@class=&quot;container--dx_3D2cm&quot;]/div[@class=&quot;content--uTjKVrTN&quot;]/section[@class=&quot;sectionBlock--uErZ6WKz listSectionNoHeader--QDP0RdU8&quot;]/div[@class=&quot;pageSectionContent--aBpM98I1 listSectionContent--PyhfRyQI&quot;]/div[@class=&quot;pageStack--r_SsVsHo&quot;]/div[@class=&quot;mainTableScope--KKkJfMpQ&quot;]/div[@class=&quot;space-y-1&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small css-oiqwb9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-pro-table-shell  ant-pro-table-shell--body-min-height&quot;]/div[@class=&quot;ant-pro-table css-oiqwb9&quot;]/div[@class=&quot;ant-pro-card css-oiqwb9&quot;]/div[@class=&quot;ant-pro-card-body css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-container css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-right css-oiqwb9&quot;]/div[@class=&quot;flex items-center flex-1&quot;]/div[@class=&quot;ant-space css-oiqwb9 ant-space-horizontal ant-space-align-center ant-space-gap-row-small ant-space-gap-col-small&quot;]/div[@class=&quot;ant-space-item&quot;]/button[@class=&quot;ant-btn css-oiqwb9 ant-btn-primary ant-btn-color-primary ant-btn-variant-solid ant-btn-sm&quot;]</value>
+      <webElementGuid>73c42121-3d30-4338-8ad3-fdc85c3bf9dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>7ced5a0c-f982-40d3-96ab-6f90d484b06d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ice-container']/div/div/div/div[2]/div[2]/main/div/div[2]/div/div/div/div/section/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div/div/div/button</value>
+      <webElementGuid>8d018982-5cfc-466f-8929-17ec1b7c6a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='收起'])[1]/following::button[1]</value>
+      <webElementGuid>e8b6a6e7-abdd-495e-96a0-dcdeb587b42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='重置'])[1]/following::button[2]</value>
+      <webElementGuid>f28e7028-e649-439a-9d1d-f5bd65621173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='驳回'])[1]/preceding::button[1]</value>
+      <webElementGuid>87589fb9-bfc2-44d3-8c93-d757edfcb3de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button</value>
+      <webElementGuid>5fdf3682-637c-4d79-887a-11d8d4757a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '提交复审' or . = '提交复审')]</value>
+      <webElementGuid>1cb65ece-bc50-4fca-ada3-4b4d93e37a3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

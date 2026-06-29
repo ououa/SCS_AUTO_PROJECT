@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>select_goods</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2709c61d-760c-49d1-a4e2-908bea9c3a2d</testCaseGuid>
+   <variable>
+      <defaultValue>'物料名称'</defaultValue>
+      <description>物料名称</description>
+      <id>ee119fad-78ab-457c-a6de-fe8176b3ebef</id>
+      <masked>false</masked>
+      <name>materialName</name>
+   </variable>
+   <variable>
+      <defaultValue>510805000941</defaultValue>
+      <description>物料编码</description>
+      <id>379bde63-f70a-4888-a426-eb7f6b936e9b</id>
+      <masked>false</masked>
+      <name>materialCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'USD1'</defaultValue>
+      <description>币别编码</description>
+      <id>89025538-a989-431c-8d58-f2f57bb51589</id>
+      <masked>false</masked>
+      <name>currencyCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'G250723109'</defaultValue>
+      <description>登录账号</description>
+      <id>be5eebc4-9213-4240-a4b6-266a4b378dfc</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_ADD_001_新增物料主档_含事业部和定价</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b058dfbf-28af-4ac2-b52b-01c44e77e731</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af970874-19c1-4af9-9fb4-59a92b8ccd56</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TC-MAT-001'</defaultValue>
+      <description></description>
+      <id>af970874-19c1-4af9-9fb4-59a92b8ccd56</id>
+      <masked>false</masked>
+      <name>CaseID</name>
+   </variable>
+</TestCaseEntity>

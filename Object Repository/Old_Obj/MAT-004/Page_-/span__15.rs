@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__15</name>
+   <tag></tag>
+   <elementGuidId>5a5ad2fd-a8d0-4d9c-8183-d58d03a01f75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-describedby = ':r9k:']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-dropdown-menu-title-content ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-describedby=&quot;\:r9k\:&quot;] .ant-dropdown-menu-title-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ece73fbc-77fa-46b4-99a2-8abddccbe0b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-dropdown-menu-title-content</value>
+      <webElementGuid>39ea4da3-a61f-469c-83a4-8d46c67094a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>退出登录</value>
+      <webElementGuid>d6bab4d5-b8f0-4536-9ddb-f6de85b29d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0ecd4a30d9f7504ae3c35724142ea5d0</value>
+      <webElementGuid>c1e719d1-5b71-40c2-909f-01f1872ba9ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r9k:']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-dropdown-menu-title-content ')]</value>
+      <webElementGuid>26743c20-bae0-498c-969a-1b81eba09fa5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r9k:']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-dropdown-menu-title-content ')]</value>
+      <webElementGuid>6788d6cc-9330-4eb5-86e1-f31c37b93104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '退出登录' or . = '退出登录')]</value>
+      <webElementGuid>1287819e-93be-4f19-9c78-c9d1386e0f9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

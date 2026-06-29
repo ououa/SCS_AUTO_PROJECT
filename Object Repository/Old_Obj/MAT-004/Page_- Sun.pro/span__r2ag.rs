@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__r2ag</name>
+   <tag></tag>
+   <elementGuidId>3605cb3c-26f4-4bcc-a80f-3a76085008d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-describedby = ':r2ag:']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-describedby=&quot;\:r2ag\:&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>33fd5240-a8be-43eb-b651-d65680e72c53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line css-oiqwb9</value>
+      <webElementGuid>3ea80ae9-adcb-4c6a-8c3c-9c0debda0acd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>:r2ag:</value>
+      <webElementGuid>79c89534-08ce-4659-addc-9dfce9a00dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0609-MAT-ALL-01</value>
+      <webElementGuid>ceba4020-6bdc-44f4-93ac-d69010856287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c66cc1d984564a153a20b1c92d4d00fe</value>
+      <webElementGuid>312c1af5-d576-4463-8031-5ff01ef71ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r2ag:']</value>
+      <webElementGuid>d26cbf85-d467-4ed4-aa8f-31090813075e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = ':r2ag:']</value>
+      <webElementGuid>d5b99c05-b9f2-4281-a7a8-60185981d43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '0609-MAT-ALL-01' or . = '0609-MAT-ALL-01')]</value>
+      <webElementGuid>ce62b285-00fc-4dc8-9f20-d8b01d9ef663</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

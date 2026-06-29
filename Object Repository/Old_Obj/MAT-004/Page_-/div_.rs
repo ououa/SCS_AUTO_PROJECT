@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>55eff2a8-0be7-45dc-9b79-35f842f1874a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = '料件']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;料件&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ea06496d-1ffe-4725-867b-c51419cdecfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>8f293a43-5346-4e73-addb-64bfee6227a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0f612e92-6d04-471f-b100-f21c1e3538f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item ant-select-item-option ant-select-item-option-active</value>
+      <webElementGuid>e1ab78a2-8655-4fd2-bdac-03ab2c17ec3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>料件</value>
+      <webElementGuid>c026db0e-17f4-4be9-b49e-f55e5f74c9c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1料件</value>
+      <webElementGuid>e7896043-2160-4aba-a88a-89e8a0f52681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-398a55a57f381098c81d67123a75f3d1</value>
+      <webElementGuid>142a2863-08ad-4af7-90b6-10d92172f49a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = '料件']</value>
+      <webElementGuid>488ba5c9-0bcb-44b4-886e-a3495dd5b5d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = '料件']</value>
+      <webElementGuid>8143c456-66ff-480d-86a7-4ea1e5e37801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = '料件' and (text() = '1料件' or . = '1料件')]</value>
+      <webElementGuid>b364df7a-3f0d-4f4a-8f85-f92cbf91ce5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

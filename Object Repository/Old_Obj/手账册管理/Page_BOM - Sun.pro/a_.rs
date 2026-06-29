@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>36d5e3dc-8bf7-4a3f-9dbf-bae21fedaa61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/AccountBookManagement\/ManualManagement\/ManualWriteoff&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/AccountBookManagement/ManualManagement/ManualWriteoff']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;手册核销&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>77cdeee4-edf0-4948-9d63-60b881349b0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/AccountBookManagement/ManualManagement/ManualWriteoff</value>
+      <webElementGuid>7f08a6d9-23c3-466e-9780-9723653d3dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>手册核销</value>
+      <webElementGuid>a2473a42-b648-4f70-bef8-fb368ae22ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5cec80c7920986462ed2cbd013d7c005</value>
+      <webElementGuid>9379cb4e-4c31-4003-b1e6-1825251537a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '/AccountBookManagement/ManualManagement/ManualWriteoff']</value>
+      <webElementGuid>87a0a9aa-920b-42d4-b631-3363147b95cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/AccountBookManagement/ManualManagement/ManualWriteoff']</value>
+      <webElementGuid>190bf458-6d1a-400d-8584-6d3cd9793f33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/AccountBookManagement/ManualManagement/ManualWriteoff' and (text() = '手册核销' or . = '手册核销')]</value>
+      <webElementGuid>f05ac590-aabe-4ca7-a110-def6ea9737cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

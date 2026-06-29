@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_reflish</name>
+   <tag></tag>
+   <elementGuidId>ada75f2f-f34c-4f0d-9449-070564072dd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.anticon.anticon-reload.ant-tooltip-open > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='批量下载'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;reload&quot;i >> svg</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5df4c821-824f-4fd2-8c4f-0c871a09e9f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>bf530fba-3041-42ce-b876-54fd869762e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2864a1d1-7f6d-484d-9c6d-e6c2f962a5d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>reload</value>
+      <webElementGuid>afb1624a-b8e6-4828-8517-7dce0bf10024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>84372f42-7b69-4bac-80ba-f5d7858b07e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>69eb1405-fd8b-46c0-8381-5fa8f66b25fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>3b6273f4-fd58-4e55-981a-d2bfaec9950a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>58b53a1d-cff5-4d53-b902-8e853f4a31ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ice-container&quot;)/div[@class=&quot;css-oiqwb9 ant-app&quot;]/div[1]/div[@class=&quot;layout--co76upfi xwd-layout css-oiqwb9 ant-design-pro xwd-layout screen-xl xwd-layout-fix-siderbar xwd-layout-side&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-oiqwb9&quot;]/div[@class=&quot;xwd-layout-container css-oiqwb9&quot;]/main[@class=&quot;ant-layout-content xwd-layout-content css-oiqwb9 xwd-layout-has-header css-oiqwb9&quot;]/div[@class=&quot;workspace--ZB0SbHtA&quot;]/div[@class=&quot;pageContent--RS0l6HnF mt-2&quot;]/div[@class=&quot;ka-wrapper&quot;]/div[@class=&quot;ka-content&quot;]/div[@class=&quot;container--dx_3D2cm&quot;]/div[@class=&quot;content--uTjKVrTN&quot;]/section[@class=&quot;sectionBlock--uErZ6WKz listSectionNoHeader--QDP0RdU8&quot;]/div[@class=&quot;pageSectionContent--aBpM98I1 listSectionContent--PyhfRyQI&quot;]/div[@class=&quot;pageStack--r_SsVsHo&quot;]/div[@class=&quot;mainTableScope--KKkJfMpQ&quot;]/div[@class=&quot;space-y-1&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small css-oiqwb9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-pro-table-shell  ant-pro-table-shell--body-min-height&quot;]/div[@class=&quot;ant-pro-table css-oiqwb9&quot;]/div[@class=&quot;ant-pro-card css-oiqwb9&quot;]/div[@class=&quot;ant-pro-card-body css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-container css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-right css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-setting-items css-oiqwb9&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-setting-item css-oiqwb9&quot;]/span[1]/span[@class=&quot;anticon anticon-reload ant-tooltip-open&quot;]/svg[1]</value>
+      <webElementGuid>1344b3a0-36e9-4fac-9e65-0e300c8bc656</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='批量下载'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>6f2626b8-52c2-4ea7-88b8-c176ef54e603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='停用'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>bae380d7-9b28-438f-9c7e-01ae693e5775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='行号'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>a8737f4f-da90-497c-9c17-0d2b2455f492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='物料编码'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>ef92b4d3-5c10-4742-ab08-d8abfcc981bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

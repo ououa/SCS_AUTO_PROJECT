@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_stop_close</name>
+   <tag></tag>
+   <elementGuidId>1c56742f-79b9-4527-a52e-8733869bc37a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.css-mncuj7.ant-btn-default.ant-btn-color-default.ant-btn-variant-outlined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[54]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;关 闭&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a1779728-a923-4d6f-b4ac-88a08454b733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>80472dce-6254-48b5-8eae-e0882cdce452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-mncuj7 ant-btn-default ant-btn-color-default ant-btn-variant-outlined</value>
+      <webElementGuid>8127a79b-f9ca-4995-86fa-aed105aa5236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>关 闭</value>
+      <webElementGuid>26fbc330-8e0c-465b-b8ad-ba6844446365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;ant-modal-root css-mncuj7&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal css-mncuj7 ant-modal-confirm ant-modal-confirm-confirm&quot;]/div[1]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;ant-modal-confirm-body-wrapper&quot;]/div[@class=&quot;ant-modal-confirm-btns&quot;]/button[@class=&quot;ant-btn css-mncuj7 ant-btn-default ant-btn-color-default ant-btn-variant-outlined&quot;]</value>
+      <webElementGuid>e05930b1-525e-4f4a-8b6f-c7daac667f0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[54]</value>
+      <webElementGuid>97b6470e-c7d0-40c3-9f59-b433c801be43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='是否确认提交商品维护'])[1]/following::button[1]</value>
+      <webElementGuid>3ea97590-62a2-4d09-ba30-8559d9807ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[2]/following::button[1]</value>
+      <webElementGuid>2294caff-b64d-4b7b-a891-4c04b3777ce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='确 认'])[1]/preceding::button[1]</value>
+      <webElementGuid>2cb27bd1-ab0c-4fc6-ac34-d1d2035039f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>41fe73c7-3954-4734-9990-d0a41c7e461c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '关 闭' or . = '关 闭')]</value>
+      <webElementGuid>1be1000d-869a-4ac2-bea6-41f775d2861b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

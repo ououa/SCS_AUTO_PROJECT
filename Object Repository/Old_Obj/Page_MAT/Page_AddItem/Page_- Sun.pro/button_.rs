@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>f1106582-951b-4bc8-8014-622da824efd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-space-item:nth-child(1) .ant-btn-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-item ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-link ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>52eaf64a-a218-460d-83a7-173c9ff57eeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>84b73a8d-ed3d-4a0c-84aa-3bf565650f81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-oiqwb9 ant-btn-link ant-btn-color-link ant-btn-variant-link ant-btn-sm px-1</value>
+      <webElementGuid>3117e9fc-8ce6-45a1-8fa9-7bd6d7342bfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>维护</value>
+      <webElementGuid>ac7223dd-1bfc-417f-99f4-461dcb8a594b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1ac206a72f23302268dfb9eb48ff466d</value>
+      <webElementGuid>09da29b3-f76e-4830-9e08-b19eb1a0233f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-item ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-link ')]</value>
+      <webElementGuid>c5a2ca39-f947-45b3-b8e1-b8c421407db2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-space-item ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-btn-link ')]</value>
+      <webElementGuid>b4b57ee9-44d2-4558-b48e-485f4053a07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '维护' or . = '维护')]</value>
+      <webElementGuid>4325a810-6f0a-47da-84e3-cc4da6c59e6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
