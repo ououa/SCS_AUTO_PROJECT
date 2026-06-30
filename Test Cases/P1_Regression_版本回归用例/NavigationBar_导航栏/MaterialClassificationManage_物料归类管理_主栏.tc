@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Common_导航_供应商物料维护</name>
-   <tag>GenAI</tag>
+   <name>MaterialClassificationManage_物料归类管理_主栏</name>
+   <tag></tag>
    <comment></comment>
    <origin>WEB_RECORDER</origin>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>078f01fe-2f1a-498c-9112-a2adef8efacc</testCaseGuid>
+   <testCaseGuid>04082e4d-8f48-4d4e-80ab-d5e6a3d950f8</testCaseGuid>
 </TestCaseEntity>
