@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_G250723109</name>
+   <tag></tag>
+   <elementGuidId>7dc14ee4-b57b-4aec-ba77-a294c807b2cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-dropdown-trigger ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-full ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-dropdown-trigger.rounded-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;G250723109&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2b4419f3-f2c4-4881-9611-9e11edcc830c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-dropdown-trigger flex cursor-pointer items-center transition-colors hover:bg-black/5 [&amp;.opened]:bg-black/5 h-10 rounded-full px-2.5 text-[13px] ant-dropdown-open</value>
+      <webElementGuid>d2b59a46-80a5-4b10-9581-57d912361d71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>G250723109</value>
+      <webElementGuid>865ca9a3-9214-446c-895c-be0c89f84da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a9a6555a3fead5224c92d53b21e91fa1</value>
+      <webElementGuid>008d0dc9-fe1d-4619-ae26-12b5e020862c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-dropdown-trigger ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-full ')]</value>
+      <webElementGuid>8ae7b249-748f-4e0a-be80-c7083097b2db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-dropdown-trigger ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-full ')]</value>
+      <webElementGuid>39b47ca9-880b-4dd0-bc5e-9571d32c28d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'G250723109' or . = 'G250723109')]</value>
+      <webElementGuid>07229721-31e3-4758-b558-1abbd2e1390d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
