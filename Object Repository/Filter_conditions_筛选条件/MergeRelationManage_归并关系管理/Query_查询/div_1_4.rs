@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1_4</name>
+   <tag></tag>
+   <elementGuidId>b8711f48-106b-414c-b3d1-23007d78dcf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-picker-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-picker-cell-range-start ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-picker-cell-inner ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ant-picker-cell.ant-picker-cell-range-start .ant-picker-cell-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;2026-06-01&quot;i] >> internal:text=&quot;1&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4c47e117-cf60-4fec-b4c1-e5f51c197689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-picker-cell-inner</value>
+      <webElementGuid>e513b6bb-c230-477c-a93f-99adf400e678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>205b37c1-d256-42f7-96ec-5da3c4aa150f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d14e82ece2dcb00e9202b1350d4568f1</value>
+      <webElementGuid>968cfd4c-d58c-4959-bfae-b76c05da57e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-picker-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-picker-cell-range-start ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-picker-cell-inner ')]</value>
+      <webElementGuid>0f4b9d87-4f65-4da0-ab22-d1f66c31089b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-picker-cell ') and contains(concat(' ', normalize-space(@class), ' '), ' ant-picker-cell-range-start ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-picker-cell-inner ')]</value>
+      <webElementGuid>36027850-d867-43c8-a232-fa6068723bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1' or . = '1')]</value>
+      <webElementGuid>fc26880c-62a3-49da-b328-74724a4b1ca2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
