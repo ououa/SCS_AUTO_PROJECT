@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>b1f3ed44-29d7-4188-bf8a-7f2f84d089b8</testSuiteGuid>
    <testCaseLink>
-      <guid>58db5b14-2f8e-4961-9082-fe6d04aeca05</guid>
+      <guid>19eb8f9e-bbce-484a-b09a-f1ba0209a1f3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/P1_Regression_版本回归用例/Common_公共通用/SysManger_Login</testCaseId>
@@ -31,16 +31,17 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f1f5985a-ea5f-47b9-acec-a329d9728ee9</guid>
+      <guid>3a8d609d-8f64-49fc-82ee-291c1fe3ac0c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/P1_Regression_版本回归用例/04_MaterialClassify_物料归类/MaterialMainPage_物料主档页/TC_ADD_001_新增物料主档_含事业部和定价</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>af970874-19c1-4af9-9fb4-59a92b8ccd56</variableId>
-      </variableLink>
+      <testCaseId>Test Cases/P1_Regression_版本回归用例/NavigationBar_导航栏/MaterialClassificationManage_物料归类管理_主栏</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>afabcc8a-9f1d-4c52-be11-282af3a651f1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/P1_Regression_版本回归用例/NavigationBar_导航栏/Common_导航_物料主档管理</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

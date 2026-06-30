@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>ebfdbd32-b2c0-41e5-81fb-4ab899235d42</testSuiteGuid>
    <testCaseLink>
-      <guid>cd7f193a-35dd-4ea3-a929-570ba1a7fe31</guid>
+      <guid>7dcd795a-0a3f-49ef-a95d-22205fad5e47</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/P1_Regression_版本回归用例/Common_公共通用/SysManger_Login</testCaseId>
@@ -31,88 +31,17 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>04ecafb2-d10f-48e3-b7e4-732db6c2c066</guid>
+      <guid>27177dec-8aa4-4a72-9393-d116789daf95</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/P1_Regression_版本回归用例/Common_公共通用/Common_导航_物料主档管理</testCaseId>
+      <testCaseId>Test Cases/P1_Regression_版本回归用例/NavigationBar_导航栏/MaterialClassificationManage_物料归类管理_主栏</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>3d597ccc-59da-4553-a8d0-337eb734ab7a</guid>
+      <guid>b376e1b8-0aae-458b-a1ae-f28e3bf1792f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/P1_Regression_版本回归用例/04_MaterialClassify_物料归类/MaterialMainPage_物料主档页/TC_ADD_001_新增物料主档_含事业部和定价</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>af970874-19c1-4af9-9fb4-59a92b8ccd56</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>47137a61-899c-4dc4-b024-57f8cb9f8531</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/P1_Regression_版本回归用例/04_MaterialClassify_物料归类/MaterialMainPage_物料主档页/button/Submit</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>98c675b5-36ae-48f0-ab2b-b96b8652fddd</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/P1_Regression_版本回归用例/04_MaterialClassify_物料归类/MaterialApplyPage_物料归类申请页/Test_MAT_apply</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>c600dcda-6a9b-4666-81fa-a8fb4fd207b2</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>ab267abe-a152-4085-ba86-ae70d0f68c10</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/P1_Regression_版本回归用例/04_MaterialClassify_物料归类/MaterialApplyPage_物料归类申请页/button/apply_GL</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>123295f1-0924-4f25-af86-b0f9323d6e60</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>a536c0ac-adda-4954-9e25-5783beb56f65</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>60e6b348-e159-4d42-bbc6-011d7354640b</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>5b738bd2-32cf-4bfb-a390-c2251e2294e6</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/P1_Regression_版本回归用例/04_MaterialClassify_物料归类/MaterialReviewPage_物料归类审核页/Test_MAT_Commodity</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>823799c2-b100-46e0-9117-b7c8b0d19337</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>2c8a8f51-e2ea-4d92-b80b-6f9e442b7fb0</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/P1_Regression_版本回归用例/04_MaterialClassify_物料归类/MaterialReviewPage_物料归类审核页/button/Yu_GL</testCaseId>
+      <testCaseId>Test Cases/P1_Regression_版本回归用例/NavigationBar_导航栏/Common_导航_物料主档管理</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -17,4 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'common.navigation.NavigationBarKeywords.navToMergeRelationManage'()
+WebUI.click(findTestObject('Filter_conditions_筛选条件/MaterialMaster_物料主档管理/ResetButton_重置按钮/Page_- Sun.pro/button_reset'))
+

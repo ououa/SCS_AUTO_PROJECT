@@ -17,7 +17,4 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('导航_02_供应商物料维护/Page_- Sun.pro/a_'))
-
-WebUI.click(findTestObject('null'))
-
+CustomKeywords.'common.navigation.NavigationBarKeywords.navToVendorMaterialMaintenance'()

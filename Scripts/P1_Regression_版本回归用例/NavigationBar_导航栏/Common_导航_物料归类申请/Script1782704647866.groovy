@@ -17,11 +17,4 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.mouseOver(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.mouseOver(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
+CustomKeywords.'common.navigation.NavigationBarKeywords.navToMaterialClassificationApply'()

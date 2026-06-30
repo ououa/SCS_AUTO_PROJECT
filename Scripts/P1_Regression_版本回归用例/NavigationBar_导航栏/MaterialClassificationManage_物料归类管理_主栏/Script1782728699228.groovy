@@ -17,4 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'common.navigation.NavigationBarKeywords.navToMergeRelationManage'()
+WebUI.click(findTestObject('NavigationBar_导航栏/MaterialClassificationManage_物料归类管理_主栏/Page_/li_'))
+
