@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_</name>
+   <name>div_ant-select-selection-overflow</name>
    <tag></tag>
-   <elementGuidId>82028d53-0b3f-409f-b64b-221c14fae425</elementGuidId>
+   <elementGuidId>164b7420-3b44-40e6-85e1-affa5166c75f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>[title=&quot;半成品&quot;] .ant-select-item-option-content span:nth-child(2)</value>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-selection-overflow ')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@title = '半成品']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
+         <key>CSS</key>
+         <value>.ant-select-selection-overflow</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;半成品&quot;i</value>
+         <value>.ant-select-selection-overflow</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,55 +28,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>c027e55e-e605-4bdf-a067-44d0d90023a1</webElementGuid>
+      <value>div</value>
+      <webElementGuid>0ed73ad6-85f3-4491-8952-94f8098763ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>shrink-0 leading-5 text-gray-700</value>
-      <webElementGuid>976054f6-4fa8-4dbf-bedd-a63393898bba</webElementGuid>
+      <value>ant-select-selection-overflow</value>
+      <webElementGuid>efef4a2f-a042-45d9-98dd-d5c6c1fcf630</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>半成品</value>
-      <webElementGuid>aea04024-8d86-44b6-ab59-8e6c326e709b</webElementGuid>
+      <value> </value>
+      <webElementGuid>d97b82b5-83bf-43de-a393-d4303cc1f311</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-b490f835725bd21fb71339047b9aa78d</value>
-      <webElementGuid>13d5df73-d144-403d-abb8-20fec437232b</webElementGuid>
+      <value>md5.v1-50683f3d2db1f8b1491e359bc0d5cdee</value>
+      <webElementGuid>d085cc5d-cc7d-4279-b0bc-085c7ff58509</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@title = '半成品']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
-      <webElementGuid>4c2f8452-0010-4987-b27b-dd0ba397da01</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-selection-overflow ')]</value>
+      <webElementGuid>4d853fb9-c488-4c7b-af87-6112a8462439</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@title = '半成品']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
-      <webElementGuid>328418f8-bd6b-4ae5-9b12-c210431f193f</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-selection-overflow ')]</value>
+      <webElementGuid>981b9dc8-3530-4cbd-a98f-fb1376a49da7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = '半成品' or . = '半成品')]</value>
-      <webElementGuid>16174cdb-625e-4c28-8512-dd8a0fe01404</webElementGuid>
+      <value>//div[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>b4a7f281-3aa2-479e-8feb-7c65b4c5af07</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

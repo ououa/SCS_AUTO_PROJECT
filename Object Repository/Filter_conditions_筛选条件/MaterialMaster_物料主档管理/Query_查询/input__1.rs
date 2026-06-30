@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_</name>
+   <name>input__1</name>
    <tag></tag>
-   <elementGuidId>85619bf8-7bbc-4870-9828-ae9ef4654564</elementGuidId>
+   <elementGuidId>bf93f877-7d47-4bb6-98b6-0f84bf40ec55</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#erpItemType</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//*[@id = 'erpItemType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#erpItemType</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5030da9b-ab12-49b0-8ace-9d059df758e6</webElementGuid>
+      <webElementGuid>97bdfd54-8251-4f4b-b06b-09c6979c5f98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>4a2928da-31d4-4a71-a91f-6dcf8ed66eaa</webElementGuid>
+      <webElementGuid>69df4719-7acb-4c8f-a02e-3f3871b0d2f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>erpItemType</value>
-      <webElementGuid>e780fa6d-e53b-462d-a57e-60693c98e6ec</webElementGuid>
+      <webElementGuid>e9ac55a5-cc10-4937-a552-b5545ad6b4d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>2b48f464-5be1-4691-bb97-31a5c9d85dc6</webElementGuid>
+      <webElementGuid>3399d06f-2bc7-41a9-b56a-4a01b6669fcc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-select-selection-search-input</value>
-      <webElementGuid>a2a8b4bc-46ff-4e6c-885e-f557b934bfe6</webElementGuid>
+      <webElementGuid>2a50a096-d59c-49e4-b2be-7201ea7b0cee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>66bd13b9-698d-4f70-b2bb-fe684afc8ce0</webElementGuid>
+      <webElementGuid>f7a9b6f6-ccc5-4571-a25d-08f59ea45fc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b591477e-2ba2-489b-b58e-5688880304a0</webElementGuid>
+      <webElementGuid>116c1e5b-bc8f-4f53-bdee-6ebb84ec045a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>81008cd2-6e76-4cf9-91c5-bdc00eae6e4e</webElementGuid>
+      <webElementGuid>9d46a0a9-ce1c-4f5c-9d2c-3963a271eb4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>aria-owns</name>
       <type>Main</type>
       <value>erpItemType_list</value>
-      <webElementGuid>d9bc6270-3673-4c38-b36a-bf658ce3bb57</webElementGuid>
+      <webElementGuid>56b77ea2-186c-42b2-8274-7c7d168287c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>fdaf49b3-9a62-4023-99b9-41d5a05d5324</webElementGuid>
+      <webElementGuid>1b2be235-f785-400a-9f2b-dc1e7cf2a715</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>erpItemType_list</value>
-      <webElementGuid>c9d3add5-73d4-4de4-888e-3c028ba4a8aa</webElementGuid>
+      <webElementGuid>da6176a7-6507-47b2-a70e-9a8fe8ae99ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-ede807428eacd391a1f23429a9087f55</value>
-      <webElementGuid>2f7e3ede-ab0b-47b2-bb86-670fb148dc82</webElementGuid>
+      <webElementGuid>e9c38ab7-3e7a-4cd8-a21b-60d3b5fcf5f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'erpItemType']</value>
-      <webElementGuid>14b76758-ed37-4792-b432-6e94ab9ba560</webElementGuid>
+      <webElementGuid>baf6494a-6f45-4ff1-b910-c781799ee73d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'erpItemType']</value>
-      <webElementGuid>88e87bc1-dbd3-4079-bcf8-88564751c445</webElementGuid>
+      <webElementGuid>afeadd4f-badb-46fd-bb06-67aebd64b1b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'search' and @id = 'erpItemType']</value>
-      <webElementGuid>a05d8ae2-4536-40d5-a6f6-435ae47adbab</webElementGuid>
+      <webElementGuid>880aa30c-28f8-43a7-9bae-54f4170e619d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

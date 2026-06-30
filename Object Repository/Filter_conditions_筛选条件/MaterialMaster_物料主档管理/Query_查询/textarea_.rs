@@ -3,15 +3,15 @@
    <description></description>
    <name>textarea_</name>
    <tag></tag>
-   <elementGuidId>bdc98a76-3892-480f-a389-2a67d3ada832</elementGuidId>
+   <elementGuidId>06357b34-383e-44b8-98bb-2c02bdd2d725</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#itemCodes</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//*[@id = 'itemCodes']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#itemCodes</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>45f95421-f728-464f-a344-a008361aa75f</webElementGuid>
+      <webElementGuid>fd835cc6-9b09-4299-84c7-cf7c9ff360bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>请输入物料料号，多个料号可换行</value>
-      <webElementGuid>2dec281f-3073-486c-abab-356397831dc9</webElementGuid>
+      <webElementGuid>1d08440e-d09f-41ed-93b3-90bc8c6f08b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>48e64f71-0a70-4927-b8cc-9651082861a4</webElementGuid>
+      <webElementGuid>c3c06cbf-ba78-4b20-a530-5096d2c8bd2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>itemCodes</value>
-      <webElementGuid>8c670d85-e916-4c9c-bd58-a5e83c2e5372</webElementGuid>
+      <webElementGuid>90d2dd66-cf2b-4411-b940-d02a13d6eb58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-input ant-input-sm css-oiqwb9 advanced-filter-textarea-control</value>
-      <webElementGuid>a51a4059-5ee2-43a4-b69b-c2a6b72ae688</webElementGuid>
+      <webElementGuid>be839814-3620-44a5-99a6-1595870476f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-1234f70e7e48680523a8c9c5ec358fdb</value>
-      <webElementGuid>8f5e8f02-be09-4188-9bd7-bbbd4a2a9460</webElementGuid>
+      <webElementGuid>31397ffc-6739-4424-9342-f02c12e03dc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'itemCodes']</value>
-      <webElementGuid>339872fa-ea31-424e-8f59-f6a8648f1d5e</webElementGuid>
+      <webElementGuid>244fb209-3139-4ee4-b88d-376fdfdc309d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'itemCodes']</value>
-      <webElementGuid>77e843a9-dd05-4d2e-b44e-73e3f2883d24</webElementGuid>
+      <webElementGuid>c8bce373-8a1a-4f1f-a0b3-5900a8882a2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@placeholder = '请输入物料料号，多个料号可换行' and @id = 'itemCodes']</value>
-      <webElementGuid>777d92f4-79a7-405c-8a9a-88dbd9235244</webElementGuid>
+      <webElementGuid>2e2fd080-38dc-4097-b177-117d685071f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_</name>
+   <name>div_</name>
    <tag></tag>
-   <elementGuidId>79988367-2b8d-4482-83cf-917736da0a22</elementGuidId>
+   <elementGuidId>0f46049d-aae8-480f-8b7f-f002025507dd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>[title=&quot;设备&quot;] .ant-select-item-option-content span:nth-child(2)</value>
+         <key>XPATH</key>
+         <value>//*[@title = '是']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@title = '设备']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
+         <key>CSS</key>
+         <value>[title=&quot;是&quot;] .ant-select-item-option-content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;设备&quot;i</value>
+         <value>internal:text=&quot;是&quot;s</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,55 +28,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>a702cfd5-530f-4c09-a567-279de88b087b</webElementGuid>
+      <value>div</value>
+      <webElementGuid>132b9c2f-f1bf-425e-88e8-261d7896ed60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>shrink-0 leading-5 text-gray-700</value>
-      <webElementGuid>7f35e7fc-9ce0-487f-be53-ef442dd9972f</webElementGuid>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>22d20ddb-7808-478a-9715-2d08b52c1674</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>设备</value>
-      <webElementGuid>2ee659f8-aa08-4fb9-b1ef-c73609fde361</webElementGuid>
+      <value>是</value>
+      <webElementGuid>0a23b8bf-05e8-4ecd-b6db-bfa0391688dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-acd3fb5b6304bfb8710de1346845134e</value>
-      <webElementGuid>b011c2db-0c69-468e-830f-fa550eb35351</webElementGuid>
+      <value>md5.v1-bf854ca9e24da9fcb53bee903d6da6f9</value>
+      <webElementGuid>69ea223a-61a6-4d67-910d-9e1ac8f11e57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@title = '设备']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
-      <webElementGuid>598ed9c3-4d1e-4656-98bb-4f27fbd5862f</webElementGuid>
+      <value>//*[@title = '是']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      <webElementGuid>56ea3d0c-1b69-4d92-b8c2-b925b6590468</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@title = '设备']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
-      <webElementGuid>94679feb-f38b-4961-8966-0c26d347657f</webElementGuid>
+      <value>//*[@title = '是']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      <webElementGuid>3af22dbe-a095-4aa2-aab0-2b58be959633</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = '设备' or . = '设备')]</value>
-      <webElementGuid>f5071e91-1348-48d4-9afa-30d3b1dc02df</webElementGuid>
+      <value>//div[(text() = '是' or . = '是')]</value>
+      <webElementGuid>1b870294-48a2-45b7-9c2e-1d61b4feffe5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

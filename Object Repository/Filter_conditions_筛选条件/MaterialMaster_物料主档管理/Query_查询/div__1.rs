@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_</name>
+   <name>div__1</name>
    <tag></tag>
-   <elementGuidId>9eb3d588-a6f3-46af-a485-80eb9422c3c2</elementGuidId>
+   <elementGuidId>1ea6116f-f9c1-4fb3-9719-63208c76241d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>[title=&quot;料件&quot;] .ant-select-item-option-content span:nth-child(2)</value>
+         <key>XPATH</key>
+         <value>//*[@title = '启用']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@title = '料件']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
+         <key>CSS</key>
+         <value>[title=&quot;启用&quot;] .ant-select-item-option-content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;料件&quot;i</value>
+         <value>internal:attr=[title=&quot;启用&quot;i] >> internal:text=&quot;启用&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,55 +28,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>c2abb081-9663-4753-aebb-21e855db0c80</webElementGuid>
+      <value>div</value>
+      <webElementGuid>17f690ec-3c38-4ab3-b596-668a44931b23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>shrink-0 leading-5 text-gray-700</value>
-      <webElementGuid>3d10adaf-11fa-4fa0-9638-e7b0a46560a4</webElementGuid>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>414cf42c-fd51-4ae9-a240-1c5109c97d81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>料件</value>
-      <webElementGuid>657cff6c-1f2f-49ee-9e15-51df7eded7df</webElementGuid>
+      <value>启用</value>
+      <webElementGuid>338a12d7-a8e1-4544-8a2c-9bba0697f988</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-052e419d2c7b8220417f57f18d480ed4</value>
-      <webElementGuid>b48d2bd3-3e68-4b2a-ad8d-634f543e8247</webElementGuid>
+      <value>md5.v1-3734cf6a03af48add7ed40aad7617425</value>
+      <webElementGuid>a761326b-4b79-4220-aed5-a12b4613771d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@title = '料件']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
-      <webElementGuid>f70eec49-6f09-4a2e-945e-2baa913277fd</webElementGuid>
+      <value>//*[@title = '启用']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      <webElementGuid>6cfb42e7-cd54-46dd-bba0-a5c64470b0e9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@title = '料件']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]//*[(name() = 'span') and (position() = 2)]</value>
-      <webElementGuid>f1f5f5de-54ac-4909-84cc-cade41573c46</webElementGuid>
+      <value>//*[@title = '启用']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ant-select-item-option-content ')]</value>
+      <webElementGuid>190e96a9-9992-4d0d-a53c-27f05e6bdc14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = '料件' or . = '料件')]</value>
-      <webElementGuid>b4f73115-2f22-4148-8d2f-02dc019bc9f3</webElementGuid>
+      <value>//div[(text() = '启用' or . = '启用')]</value>
+      <webElementGuid>be84ae9f-5620-4a8d-8aaa-e14f424c3713</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

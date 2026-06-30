@@ -3,22 +3,22 @@
    <description></description>
    <name>input_</name>
    <tag></tag>
-   <elementGuidId>5e9d02a2-3cb2-49c9-9c79-8202e2a06574</elementGuidId>
+   <elementGuidId>49395ebe-06b9-4473-ab29-a9e4b6671261</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#username</value>
+         <key>XPATH</key>
+         <value>//*[@id = 'itemName']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'username']</value>
+         <key>CSS</key>
+         <value>#itemName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;请输入账号&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;请输入货物名称&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,47 +29,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f585be39-dc22-49c4-bb6d-2a9941aa1ebf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>username</value>
-      <webElementGuid>b514094a-920e-4b41-acdf-36379eee98da</webElementGuid>
+      <webElementGuid>9f52db5a-574b-4903-8b3f-de374ca5df3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>请输入账号</value>
-      <webElementGuid>117a825e-cb6d-4e9d-b000-8e212ad65d2e</webElementGuid>
+      <value>请输入货物名称</value>
+      <webElementGuid>12844bc8-722b-4cc5-91f2-667020f5a03f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>4857a48f-73f5-48bb-a8a4-908b3cb06c0d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-required</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>994810cf-bc3b-4041-87a4-01a1f4c13c4c</webElementGuid>
+      <value>itemName</value>
+      <webElementGuid>7bb34655-c505-4bd8-b798-07d1b4839ea8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ant-input ant-input-lg css-oiqwb9</value>
-      <webElementGuid>8936f6b7-7b05-4d1f-b4ac-ba2bbbf8ccf3</webElementGuid>
+      <value>ant-input ant-input-sm css-oiqwb9</value>
+      <webElementGuid>0b91323c-8fb0-4993-a8ee-aef78d035b84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,38 +61,38 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a5060646-267b-4dbd-ad08-4b83c68b6735</webElementGuid>
+      <webElementGuid>01bbca1c-87c6-485c-b31e-1f6919018c08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-3d2c3dd43d9fa890160f2bddb48eef38</value>
-      <webElementGuid>2a8bb327-be05-4760-80e6-613698501551</webElementGuid>
+      <value>md5.v1-e616e1a6f8d11798baffd4c5a0719249</value>
+      <webElementGuid>29c27fa9-24bb-46bf-816d-fa8160ae797a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'username']</value>
-      <webElementGuid>da359608-b9ab-42c1-b6cb-f168d35f298e</webElementGuid>
+      <value>//*[@id = 'itemName']</value>
+      <webElementGuid>548e32d8-ebba-4114-8781-027363472974</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'username']</value>
-      <webElementGuid>d32d54cc-e43b-485d-a6c3-2172bbccb535</webElementGuid>
+      <value>//*[@id = 'itemName']</value>
+      <webElementGuid>a49c09c7-adc5-4a20-9f06-4fe824b65689</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = '请输入账号' and @id = 'username' and @type = 'text']</value>
-      <webElementGuid>600e08c4-e3f6-4975-a4e5-6f39ba47db5a</webElementGuid>
+      <value>//input[@placeholder = '请输入货物名称' and @id = 'itemName' and @type = 'text']</value>
+      <webElementGuid>6d23020f-0804-491d-8edd-0660be7467be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
